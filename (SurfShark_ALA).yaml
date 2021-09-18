@@ -1,0 +1,81 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+proxies:
+  - {name: 🇫🇷 France 6 (SurfShark_ALA), server: 143.244.57.122, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
+  - {name: 🇫🇷 France 5 (SurfShark_ALA), server: 185.108.106.102, port: 43963, type: ss, cipher: aes-256-gcm, password: Tuw6zzZM6JwWNZyYF9ckC4JZ}
+  - {name: 🇫🇷 France 4 (SurfShark_ALA), server: 185.166.84.61, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇦🇿 Azerbaijan 7 (SurfShark_ALA), server: 62.212.239.43, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇪🇸 Spain 5 (SurfShark_ALA), server: 89.37.95.27, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇩🇪 12 (SurfShark_ALA), server: 138.199.19.179, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇬🇧 6 (SurfShark_ALA), server: 5.226.137.10, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 19 (SurfShark_ALA), server: 185.124.240.151, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 20 (SurfShark_ALA), server: 143.244.60.164, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇩🇰 Denmark 1 (SurfShark_ALA), server: 89.45.7.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇹🇷 Turkey 1 (SurfShark_ALA), server: 107.150.94.27, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs}
+proxy-groups:
+  - name: Proxies
+    type: select
+    proxies:
+      - Best Ping
+      - 🇫🇷 France 6 (SurfShark_ALA)
+      - 🇫🇷 France 5 (SurfShark_ALA)
+      - 🇫🇷 France 4 (SurfShark_ALA)
+      - 🇦🇿 Azerbaijan 7 (SurfShark_ALA)
+      - 🇪🇸 Spain 5 (SurfShark_ALA)
+      - 🇩🇪 12 (SurfShark_ALA)
+      - 🇬🇧 6 (SurfShark_ALA)
+      - 🇺🇸 19 (SurfShark_ALA)
+      - 🇺🇸 20 (SurfShark_ALA)
+      - 🇩🇰 Denmark 1 (SurfShark_ALA)
+      - 🇹🇷 Turkey 1 (SurfShark_ALA)
+  - name: Best Ping
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇫🇷 France 6 (SurfShark_ALA)
+      - 🇫🇷 France 5 (SurfShark_ALA)
+      - 🇫🇷 France 4 (SurfShark_ALA)
+      - 🇦🇿 Azerbaijan 7 (SurfShark_ALA)
+      - 🇪🇸 Spain 5 (SurfShark_ALA)
+      - 🇩🇪 12 (SurfShark_ALA)
+      - 🇬🇧 6 (SurfShark_ALA)
+      - 🇺🇸 19 (SurfShark_ALA)
+      - 🇺🇸 20 (SurfShark_ALA)
+      - 🇩🇰 Denmark 1 (SurfShark_ALA)
+      - 🇹🇷 Turkey 1 (SurfShark_ALA)
+
+
+rules:
+ - DOMAIN-SUFFIX,1password.com,DIRECT
+ - DOMAIN-SUFFIX,vultr.com,DIRECT
+ - DOMAIN-SUFFIX,mb3admin.com,DIRECT
+ - DOMAIN-SUFFIX,rixcloud.io,DIRECT
+ - DOMAIN-SUFFIX,tempestapp.io,DIRECT
+ - DOMAIN,mtalk.google.com,DIRECT
+ - DOMAIN,alt1-mtalk.google.com,DIRECT
+ - DOMAIN,alt2-mtalk.google.com,DIRECT
+ - DOMAIN,alt3-mtalk.google.com,DIRECT
+ - DOMAIN,alt4-mtalk.google.com,DIRECT
+ - DOMAIN,alt5-mtalk.google.com,DIRECT
+ - DOMAIN,alt6-mtalk.google.com,DIRECT
+ - DOMAIN,alt7-mtalk.google.com,DIRECT
+ - DOMAIN,alt8-mtalk.google.com,DIRECT
+ - DOMAIN,alt9-mtalk.google.com,DIRECT
+ - DOMAIN,captive.apple.com,DIRECT
+ - DOMAIN-SUFFIX,local,DIRECT
+ - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+ - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+ - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+ - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+ - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+ - IP-CIDR6,::1/128,DIRECT,no-resolve
+ - IP-CIDR6,fc00::/7,DIRECT,no-resolve
+ - IP-CIDR6,fe80::/10,DIRECT,no-resolve
+ - IP-CIDR6,fd00::/8,DIRECT,no-resolve
+ - GEOIP,IR,DIRECT
+ - MATCH,Proxies
