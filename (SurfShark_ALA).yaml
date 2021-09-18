@@ -8,19 +8,39 @@ proxies:
   - {name: 🇫🇷 France 6 (SurfShark_ALA), server: 143.244.57.122, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
   - {name: 🇫🇷 France 5 (SurfShark_ALA), server: 185.108.106.102, port: 43963, type: ss, cipher: aes-256-gcm, password: Tuw6zzZM6JwWNZyYF9ckC4JZ}
   - {name: 🇫🇷 France 4 (SurfShark_ALA), server: 185.166.84.61, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+
+  - {name: 🇦🇱 Albania 1 (SurfShark_ALA), server: 31.171.153.117, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇦🇱 Albania 2 (SurfShark_ALA), server: 31.171.153.115, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+
+  - {name: 🇦🇷 Argentina 1 (SurfShark_ALA), server: 91.206.168.15, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
+  - {name: 🇦🇷 Argentina 2 (SurfShark_ALA), server: 91.206.168.41, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+
+
+
   - {name: 🇦🇿 Azerbaijan 7 (SurfShark_ALA), server: 62.212.239.43, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+
   - {name: 🇪🇸 Spain 5 (SurfShark_ALA), server: 89.37.95.27, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+
   - {name: 🇩🇪 12 (SurfShark_ALA), server: 138.199.19.179, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+
   - {name: 🇬🇧 6 (SurfShark_ALA), server: 5.226.137.10, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+
   - {name: 🇺🇸 19 (SurfShark_ALA), server: 185.124.240.151, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
   - {name: 🇺🇸 20 (SurfShark_ALA), server: 143.244.60.164, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+
   - {name: 🇩🇰 Denmark 1 (SurfShark_ALA), server: 89.45.7.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+
   - {name: 🇹🇷 Turkey 1 (SurfShark_ALA), server: 107.150.94.27, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs}
+
 proxy-groups:
   - name: Proxies
     type: select
     proxies:
       - Best Ping
+      - 🇦🇱 Albania 1 (SurfShark_ALA)
+      - 🇦🇱 Albania 2 (SurfShark_ALA)
+      - 🇦🇷 Argentina 1 (SurfShark_ALA)
+      - 🇦🇷 Argentina 2 (SurfShark_ALA)
       - 🇫🇷 France 6 (SurfShark_ALA)
       - 🇫🇷 France 5 (SurfShark_ALA)
       - 🇫🇷 France 4 (SurfShark_ALA)
@@ -37,6 +57,10 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
+      - 🇦🇱 Albania 1 (SurfShark_ALA)
+      - 🇦🇱 Albania 2 (SurfShark_ALA)
+      - 🇦🇷 Argentina 1 (SurfShark_ALA)
+      - 🇦🇷 Argentina 2 (SurfShark_ALA)
       - 🇫🇷 France 6 (SurfShark_ALA)
       - 🇫🇷 France 5 (SurfShark_ALA)
       - 🇫🇷 France 4 (SurfShark_ALA)
