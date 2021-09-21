@@ -23,6 +23,14 @@ proxies:
 
   - {name: 🇪🇸 Spain 5 (t.me/SurfShark_ALA), server: 89.37.95.27, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
 
+  - {name: 🇸🇬 Singapore 1 (t.me/SurfShark_ALA), server: 89.187.163.132, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇸🇬 Singapore 2 (t.me/SurfShark_ALA), server: 156.146.56.137, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇸🇬 Singapore 3 (t.me/SurfShark_ALA), server: 89.187.163.132, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇸🇬 Singapore 4 (t.me/SurfShark_ALA), server: 89.187.163.136, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇸🇬 Singapore 5 (t.me/SurfShark_ALA), server: 89.187.163.136, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇸🇬 Singapore 6 (t.me/SurfShark_ALA), server: 89.187.162.184, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  
+
   - {name: 🇩🇪 12 (t.me/SurfShark_ALA), server: 138.199.19.179, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
 
   - {name: 🇬🇧 6 (t.me/SurfShark_ALA), server: 5.226.137.10, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
@@ -51,6 +59,12 @@ proxy-groups:
       - 🇫🇷 France 5 (t.me/SurfShark_ALA)
       - 🇫🇷 France 4 (t.me/SurfShark_ALA)
       - 🇪🇸 Spain 5 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 1 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 2 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 3 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 4 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 5 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 6 (t.me/SurfShark_ALA)
       - 🇩🇪 12 (t.me/SurfShark_ALA)
       - 🇬🇧 6 (t.me/SurfShark_ALA)
       - 🇺🇸 19 (t.me/SurfShark_ALA)
@@ -74,6 +88,12 @@ proxy-groups:
       - 🇫🇷 France 5 (t.me/SurfShark_ALA)
       - 🇫🇷 France 4 (t.me/SurfShark_ALA)
       - 🇪🇸 Spain 5 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 1 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 2 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 3 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 4 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 5 (t.me/SurfShark_ALA)
+      - 🇸🇬 Singapore 6 (t.me/SurfShark_ALA)
       - 🇩🇪 12 (t.me/SurfShark_ALA)
       - 🇬🇧 6 (t.me/SurfShark_ALA)
       - 🇺🇸 19 (t.me/SurfShark_ALA)
