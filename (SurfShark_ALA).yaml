@@ -72,10 +72,10 @@ proxies:
   - {name: 🇹🇷 Turkey 1 (t.me/SurfShark_ALA), server: 107.150.94.27, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs}
 
 proxy-groups:
-  - name: Proxies
+  - name: 🔰 Manual (t.me/SurfShark_ALA)
     type: select
     proxies:
-      - Best Ping
+      - ♻️ Best Ping
       - 🇦🇱 Albania 1 (t.me/SurfShark_ALA)
       - 🇦🇱 Albania 2 (t.me/SurfShark_ALA)
       - 🇦🇷 Argentina 1 (t.me/SurfShark_ALA)
@@ -126,7 +126,7 @@ proxy-groups:
       - 🇺🇸 20 (t.me/SurfShark_ALA)
       - 🇩🇰 Denmark 1 (t.me/SurfShark_ALA)
       - 🇹🇷 Turkey 1 (t.me/SurfShark_ALA)
-  - name: Best Ping
+  - name: ♻️ Best Ping
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
@@ -211,4 +211,4 @@ rules:
  - IP-CIDR6,fe80::/10,DIRECT,no-resolve
  - IP-CIDR6,fd00::/8,DIRECT,no-resolve
  - GEOIP,IR,DIRECT
- - MATCH,Proxies
+ - MATCH,🔰 Manual (t.me/SurfShark_ALA),♻️ Best Ping
