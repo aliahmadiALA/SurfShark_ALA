@@ -1,95 +1,104 @@
-port: 7890
-socks-port: 7891
-allow-lan: true
-mode: Rule
-log-level: info
+mixed-port: 7890
+allow-lan: false
+mode: Global
+log-level: silent
 external-controller: 127.0.0.1:9090
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+  fallback:
+    - 1.1.1.1
+    - 8.8.8.8
 proxies:
-  - {name: 🇦🇱 Albania 1 (t.me/SurfShark_ALA), server: 31.171.153.117, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-  - {name: 🇦🇱 Albania 2 (t.me/SurfShark_ALA), server: 31.171.153.115, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 🇦🇱 Albania 1 (t.me/SurfShark_ALA), server: 31.171.153.117, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB, udp: true}
+  - {name: 🇦🇱 Albania 2 (t.me/SurfShark_ALA), server: 31.171.153.115, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB, udp: true}
 
-  - {name: 🇦🇷 Argentina 1 (t.me/SurfShark_ALA), server: 91.206.168.15, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
-  - {name: 🇦🇷 Argentina 2 (t.me/SurfShark_ALA), server: 91.206.168.41, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇦🇷 Argentina 1 (t.me/SurfShark_ALA), server: 91.206.168.15, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z, udp: true}
+  - {name: 🇦🇷 Argentina 2 (t.me/SurfShark_ALA), server: 91.206.168.41, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
 
-  - {name: 🇦🇺 Australia 1 (t.me/SurfShark_ALA), server: 144.48.38.179, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 🇦🇺 Australia 2 (t.me/SurfShark_ALA), server: 180.149.228.27, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇦🇺 Australia 1 (t.me/SurfShark_ALA), server: 144.48.38.179, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd, udp: true}
+  - {name: 🇦🇺 Australia 2 (t.me/SurfShark_ALA), server: 180.149.228.27, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd, udp: true}
 
-  - {name: 🇦🇿 Azerbaijan 1 (t.me/SurfShark_ALA), server: 62.212.239.43, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: 🇦🇿 Azerbaijan 2 (t.me/SurfShark_ALA), server: 94.20.154.85, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
-  - {name: 🇦🇿 Azerbaijan 3 (t.me/SurfShark_ALA), server: 62.212.239.51, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇦🇿 Azerbaijan 4 (t.me/SurfShark_ALA), server: 62.212.239.43, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇦🇿 Azerbaijan 5 (t.me/SurfShark_ALA), server: 62.212.239.53, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇦🇿 Azerbaijan 6 (t.me/SurfShark_ALA), server: 62.212.239.51, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇦🇿 Azerbaijan 1 (t.me/SurfShark_ALA), server: 62.212.239.43, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
+  - {name: 🇦🇿 Azerbaijan 2 (t.me/SurfShark_ALA), server: 94.20.154.85, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD, udp: true}
+  - {name: 🇦🇿 Azerbaijan 3 (t.me/SurfShark_ALA), server: 62.212.239.51, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇦🇿 Azerbaijan 4 (t.me/SurfShark_ALA), server: 62.212.239.43, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: 🇦🇿 Azerbaijan 5 (t.me/SurfShark_ALA), server: 62.212.239.53, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
+  - {name: 🇦🇿 Azerbaijan 6 (t.me/SurfShark_ALA), server: 62.212.239.51, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8, udp: true}
 
-  - {name: 🇫🇷 France 1 (t.me/SurfShark_ALA), server: 185.166.84.77, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇫🇷 France 2 (t.me/SurfShark_ALA), server: 185.166.84.91, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇫🇷 France 3 (t.me/SurfShark_ALA), server: 185.166.84.52, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇫🇷 France 4 (t.me/SurfShark_ALA), server: 185.166.84.64, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇫🇷 France 5 (t.me/SurfShark_ALA), server: 185.166.84.93, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇫🇷 France 6 (t.me/SurfShark_ALA), server: 185.166.84.39, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-
-
-
-  - {name: 🇩🇪 Germany 1 (t.me/SurfShark_ALA), server: 18.185.63.41, port: 809, type: ss, cipher: aes-256-gcm, password: G!yBwPWH3Vao}
-  - {name: 🇩🇪 Germany 2 (t.me/SurfShark_ALA), server: 156.146.33.77, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-  - {name: 🇩🇪 Germany 3 (t.me/SurfShark_ALA), server: 138.199.19.177, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-  - {name: 🇩🇪 Germany 4 (t.me/SurfShark_ALA), server: 37.120.217.181, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-  - {name: 🇩🇪 Germany 5 (t.me/SurfShark_ALA), server: 217.138.216.246, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-  - {name: 🇩🇪 Germany 6 (t.me/SurfShark_ALA), server: 37.120.217.179, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
+  - {name: 🇫🇷 France 1 (t.me/SurfShark_ALA), server: 185.166.84.77, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇫🇷 France 2 (t.me/SurfShark_ALA), server: 185.166.84.91, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇫🇷 France 3 (t.me/SurfShark_ALA), server: 185.166.84.52, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇫🇷 France 4 (t.me/SurfShark_ALA), server: 185.166.84.64, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇫🇷 France 5 (t.me/SurfShark_ALA), server: 185.166.84.93, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇫🇷 France 6 (t.me/SurfShark_ALA), server: 185.166.84.39, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
 
 
 
-  - {name: 🇳🇱 Netherlands 1 (t.me/SurfShark_ALA), server: 81.19.208.102, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-  - {name: 🇳🇱 Netherlands 2 (t.me/SurfShark_ALA), server: 143.244.42.94, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-  - {name: 🇳🇱 Netherlands 3 (t.me/SurfShark_ALA), server: 81.19.209.120, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-  - {name: 🇳🇱 Netherlands 4 (t.me/SurfShark_ALA), server: 143.244.42.84, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-  - {name: 🇳🇱 Netherlands 5 (t.me/SurfShark_ALA), server: 81.19.209.59, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-  - {name: 🇳🇱 Netherlands 6 (t.me/SurfShark_ALA), server: 212.102.35.206, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
+  - {name: 🇩🇪 Germany 1 (t.me/SurfShark_ALA), server: 18.185.63.41, port: 809, type: ss, cipher: aes-256-gcm, password: G!yBwPWH3Vao, udp: true}
+  - {name: 🇩🇪 Germany 2 (t.me/SurfShark_ALA), server: 156.146.33.77, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb, udp: true}
+  - {name: 🇩🇪 Germany 3 (t.me/SurfShark_ALA), server: 138.199.19.177, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb, udp: true}
+  - {name: 🇩🇪 Germany 4 (t.me/SurfShark_ALA), server: 37.120.217.181, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb, udp: true}
+  - {name: 🇩🇪 Germany 5 (t.me/SurfShark_ALA), server: 217.138.216.246, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb, udp: true}
+  - {name: 🇩🇪 Germany 6 (t.me/SurfShark_ALA), server: 37.120.217.179, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb, udp: true}
 
 
-  - {name: 🇪🇸 Spain 1 (t.me/SurfShark_ALA), server: 84.17.62.179, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇪🇸 Spain 2 (t.me/SurfShark_ALA), server: 89.37.95.13, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇪🇸 Spain 3 (t.me/SurfShark_ALA), server: 89.37.95.23, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇪🇸 Spain 4 (t.me/SurfShark_ALA), server: 89.37.95.15, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇪🇸 Spain 5 (t.me/SurfShark_ALA), server: 89.37.95.27, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇪🇸 Spain 6 (t.me/SurfShark_ALA), server: 89.37.95.26, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
 
-  - {name: 🇸🇬 Singapore 1 (t.me/SurfShark_ALA), server: 89.187.163.132, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇸🇬 Singapore 2 (t.me/SurfShark_ALA), server: 156.146.56.137, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇸🇬 Singapore 3 (t.me/SurfShark_ALA), server: 89.187.163.132, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-  - {name: 🇸🇬 Singapore 4 (t.me/SurfShark_ALA), server: 89.187.163.136, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇸🇬 Singapore 5 (t.me/SurfShark_ALA), server: 89.187.163.136, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-  - {name: 🇸🇬 Singapore 6 (t.me/SurfShark_ALA), server: 89.187.162.184, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 🇳🇱 Netherlands 1 (t.me/SurfShark_ALA), server: 81.19.208.102, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb, udp: true}
+  - {name: 🇳🇱 Netherlands 2 (t.me/SurfShark_ALA), server: 143.244.42.94, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb, udp: true}
+  - {name: 🇳🇱 Netherlands 3 (t.me/SurfShark_ALA), server: 81.19.209.120, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb, udp: true}
+  - {name: 🇳🇱 Netherlands 4 (t.me/SurfShark_ALA), server: 143.244.42.84, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb, udp: true}
+  - {name: 🇳🇱 Netherlands 5 (t.me/SurfShark_ALA), server: 81.19.209.59, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb, udp: true}
+  - {name: 🇳🇱 Netherlands 6 (t.me/SurfShark_ALA), server: 212.102.35.206, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb, udp: true}
+
+
+  - {name: 🇪🇸 Spain 1 (t.me/SurfShark_ALA), server: 84.17.62.179, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇪🇸 Spain 2 (t.me/SurfShark_ALA), server: 89.37.95.13, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇪🇸 Spain 3 (t.me/SurfShark_ALA), server: 89.37.95.23, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇪🇸 Spain 4 (t.me/SurfShark_ALA), server: 89.37.95.15, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇪🇸 Spain 5 (t.me/SurfShark_ALA), server: 89.37.95.27, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇪🇸 Spain 6 (t.me/SurfShark_ALA), server: 89.37.95.26, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+
+  - {name: 🇸🇬 Singapore 1 (t.me/SurfShark_ALA), server: 89.187.163.132, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇸🇬 Singapore 2 (t.me/SurfShark_ALA), server: 156.146.56.137, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇸🇬 Singapore 3 (t.me/SurfShark_ALA), server: 89.187.163.132, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ, udp: true}
+  - {name: 🇸🇬 Singapore 4 (t.me/SurfShark_ALA), server: 89.187.163.136, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇸🇬 Singapore 5 (t.me/SurfShark_ALA), server: 89.187.163.136, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ, udp: true}
+  - {name: 🇸🇬 Singapore 6 (t.me/SurfShark_ALA), server: 89.187.162.184, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ, udp: true}
   
 
-  - {name: 🇩🇪 12 (t.me/SurfShark_ALA), server: 138.199.19.179, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇦🇪 UAE 1 (t.me/SurfShark_ALA), server: 176.125.231.13, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z, udp: true}
+  - {name: 🇦🇪 UAE 2 (t.me/SurfShark_ALA), server: 176.125.231.29, port: 37559, type: ss, cipher: aes-256-gcm, password: Qbt22F6JsxzFGqcsK5SaR8q3, udp: true}
+  - {name: 🇦🇪 UAE 3 (t.me/SurfShark_ALA), server: 176.125.231.13, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6, udp: true}
+  - {name: 🇦🇪 UAE 4 (t.me/SurfShark_ALA), server: 176.125.231.27, port: 41372, type: ss, cipher: aes-256-gcm, password: 5kGAhC3AmVC35GbruHjSrZf2, udp: true}
+  - {name: 🇦🇪 UAE 5 (t.me/SurfShark_ALA), server: 176.125.231.4, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6, udp: true}
+  - {name: 🇦🇪 UAE 6 (t.me/SurfShark_ALA), server: 176.125.231.4, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs, udp: true}
 
-  - {name: 🇦🇪 UAE 1 (t.me/SurfShark_ALA), server: 176.125.231.13, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
-  - {name: 🇦🇪 UAE 2 (t.me/SurfShark_ALA), server: 176.125.231.29, port: 37559, type: ss, cipher: aes-256-gcm, password: Qbt22F6JsxzFGqcsK5SaR8q3}
-  - {name: 🇦🇪 UAE 3 (t.me/SurfShark_ALA), server: 176.125.231.13, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6}
-  - {name: 🇦🇪 UAE 4 (t.me/SurfShark_ALA), server: 176.125.231.27, port: 41372, type: ss, cipher: aes-256-gcm, password: 5kGAhC3AmVC35GbruHjSrZf2}
-  - {name: 🇦🇪 UAE 5 (t.me/SurfShark_ALA), server: 176.125.231.4, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇦🇪 UAE 6 (t.me/SurfShark_ALA), server: 176.125.231.4, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs}
+  - {name: 🇬🇧 1 (t.me/SurfShark_ALA), server: 5.226.137.10, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇬🇧 2 (t.me/SurfShark_ALA), server: 185.134.22.115, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇬🇧 3 (t.me/SurfShark_ALA), server: 185.134.23.40, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇬🇧 4 (t.me/SurfShark_ALA), server: 185.38.150.88, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇬🇧 5 (t.me/SurfShark_ALA), server: 5.226.137.10, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
+  - {name: 🇬🇧 6 (t.me/SurfShark_ALA), server: 185.16.206.69, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B, udp: true}
 
-  - {name: 🇬🇧 1 (t.me/SurfShark_ALA), server: 5.226.137.10, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇬🇧 2 (t.me/SurfShark_ALA), server: 185.134.22.115, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇬🇧 3 (t.me/SurfShark_ALA), server: 185.134.23.40, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇬🇧 4 (t.me/SurfShark_ALA), server: 185.38.150.88, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇬🇧 5 (t.me/SurfShark_ALA), server: 5.226.137.10, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇬🇧 6 (t.me/SurfShark_ALA), server: 185.16.206.69, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 19 (t.me/SurfShark_ALA), server: 185.124.240.151, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇺🇸 20 (t.me/SurfShark_ALA), server: 143.244.60.164, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
 
-  - {name: 🇺🇸 19 (t.me/SurfShark_ALA), server: 185.124.240.151, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇸 20 (t.me/SurfShark_ALA), server: 143.244.60.164, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇩🇰 Denmark 1 (t.me/SurfShark_ALA), server: 89.45.7.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
 
-  - {name: 🇩🇰 Denmark 1 (t.me/SurfShark_ALA), server: 89.45.7.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-
-  - {name: 🇹🇷 Turkey 1 (t.me/SurfShark_ALA), server: 107.150.94.27, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs}
+  - {name: 🇹🇷 Turkey 1 (t.me/SurfShark_ALA), server: 107.150.94.27, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs, udp: true}
 
 proxy-groups:
   - name: 🔰 Manual (t.me/SurfShark_ALA)
     type: select
     proxies:
       - ♻️ Best Ping
+      - ✅ Direct
       - 🇦🇱 Albania 1 (t.me/SurfShark_ALA)
       - 🇦🇱 Albania 2 (t.me/SurfShark_ALA)
       - 🇦🇷 Argentina 1 (t.me/SurfShark_ALA)
@@ -132,7 +141,6 @@ proxy-groups:
       - 🇸🇬 Singapore 4 (t.me/SurfShark_ALA)
       - 🇸🇬 Singapore 5 (t.me/SurfShark_ALA)
       - 🇸🇬 Singapore 6 (t.me/SurfShark_ALA)
-      - 🇩🇪 12 (t.me/SurfShark_ALA)
       - 🇦🇪 UAE 1 (t.me/SurfShark_ALA)
       - 🇦🇪 UAE 2 (t.me/SurfShark_ALA)
       - 🇦🇪 UAE 3 (t.me/SurfShark_ALA)
@@ -196,7 +204,6 @@ proxy-groups:
       - 🇸🇬 Singapore 4 (t.me/SurfShark_ALA)
       - 🇸🇬 Singapore 5 (t.me/SurfShark_ALA)
       - 🇸🇬 Singapore 6 (t.me/SurfShark_ALA)
-      - 🇩🇪 12 (t.me/SurfShark_ALA)
       - 🇦🇪 UAE 1 (t.me/SurfShark_ALA)
       - 🇦🇪 UAE 2 (t.me/SurfShark_ALA)
       - 🇦🇪 UAE 3 (t.me/SurfShark_ALA)
@@ -215,32 +222,20 @@ proxy-groups:
       - 🇹🇷 Turkey 1 (t.me/SurfShark_ALA)
 
 
+  - name: ✅ Direct
+    type: select
+    proxies:
+      - DIRECT
+
+  - name: 🚫 Intercept
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+
 rules:
- - DOMAIN-SUFFIX,1password.com,DIRECT
- - DOMAIN-SUFFIX,vultr.com,DIRECT
- - DOMAIN-SUFFIX,mb3admin.com,DIRECT
- - DOMAIN-SUFFIX,rixcloud.io,DIRECT
- - DOMAIN-SUFFIX,tempestapp.io,DIRECT
- - DOMAIN,mtalk.google.com,DIRECT
- - DOMAIN,alt1-mtalk.google.com,DIRECT
- - DOMAIN,alt2-mtalk.google.com,DIRECT
- - DOMAIN,alt3-mtalk.google.com,DIRECT
- - DOMAIN,alt4-mtalk.google.com,DIRECT
- - DOMAIN,alt5-mtalk.google.com,DIRECT
- - DOMAIN,alt6-mtalk.google.com,DIRECT
- - DOMAIN,alt7-mtalk.google.com,DIRECT
- - DOMAIN,alt8-mtalk.google.com,DIRECT
- - DOMAIN,alt9-mtalk.google.com,DIRECT
- - DOMAIN,captive.apple.com,DIRECT
- - DOMAIN-SUFFIX,local,DIRECT
- - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
- - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
- - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
- - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
- - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
- - IP-CIDR6,::1/128,DIRECT,no-resolve
- - IP-CIDR6,fc00::/7,DIRECT,no-resolve
- - IP-CIDR6,fe80::/10,DIRECT,no-resolve
- - IP-CIDR6,fd00::/8,DIRECT,no-resolve
- - GEOIP,IR,DIRECT
+ - DOMAIN-SUFFIX,ad.com,🚫 Intercept
+ - SRC-IP-CIDR,192.168.1.201/32,✅ Direct
+ - IP-CIDR,127.0.0.0/8,✅ Direct
+ - GEOIP,IR,✅ Direct
  - MATCH,🔰 Manual (t.me/SurfShark_ALA),♻️ Best Ping
