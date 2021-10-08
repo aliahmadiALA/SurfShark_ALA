@@ -21,6 +21,20 @@ proxies:
   - {name: 🇦🇿 Azerbaijan 5 (t.me/SurfShark_ALA), server: 62.212.239.53, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 🇦🇿 Azerbaijan 6 (t.me/SurfShark_ALA), server: 62.212.239.51, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
 
+  - {name: 🇨🇦 Canada 1 (t.me/SurfShark_ALA), server: 66.115.147.94, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇨🇦 Canada 2 (t.me/SurfShark_ALA), server: 66.115.147.74, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇨🇦 Canada 3 (t.me/SurfShark_ALA), server: 208.78.41.200, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇨🇦 Canada 4 (t.me/SurfShark_ALA), server: 172.83.40.147, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇨🇦 Canada 5 (t.me/SurfShark_ALA), server: 66.115.147.89, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇨🇦 Canada 6 (t.me/SurfShark_ALA), server: 66.115.147.69, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+
+  - {name: 🇩🇰 Denmark 1 (t.me/SurfShark_ALA), server: 89.45.7.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇩🇰 Denmark 2 (t.me/SurfShark_ALA), server: 193.29.107.107, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇩🇰 Denmark 3 (t.me/SurfShark_ALA), server: 193.29.107.109, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇩🇰 Denmark 4 (t.me/SurfShark_ALA), server: 193.29.107.107, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇩🇰 Denmark 5 (t.me/SurfShark_ALA), server: 193.29.107.99, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇩🇰 Denmark 6 (t.me/SurfShark_ALA), server: 193.29.107.125, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+
   - {name: 🇫🇷 France 1 (t.me/SurfShark_ALA), server: 185.166.84.77, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
   - {name: 🇫🇷 France 2 (t.me/SurfShark_ALA), server: 185.166.84.91, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
   - {name: 🇫🇷 France 3 (t.me/SurfShark_ALA), server: 185.166.84.52, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
@@ -29,14 +43,12 @@ proxies:
   - {name: 🇫🇷 France 6 (t.me/SurfShark_ALA), server: 185.166.84.39, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
 
 
-
   - {name: 🇩🇪 Germany 1 (t.me/SurfShark_ALA), server: 18.185.63.41, port: 809, type: ss, cipher: aes-256-gcm, password: G!yBwPWH3Vao}
   - {name: 🇩🇪 Germany 2 (t.me/SurfShark_ALA), server: 156.146.33.77, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
   - {name: 🇩🇪 Germany 3 (t.me/SurfShark_ALA), server: 138.199.19.177, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
   - {name: 🇩🇪 Germany 4 (t.me/SurfShark_ALA), server: 37.120.217.181, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
   - {name: 🇩🇪 Germany 5 (t.me/SurfShark_ALA), server: 217.138.216.246, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
   - {name: 🇩🇪 Germany 6 (t.me/SurfShark_ALA), server: 37.120.217.179, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-
 
 
   - {name: 🇳🇱 Netherlands 1 (t.me/SurfShark_ALA), server: 81.19.208.102, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
@@ -61,6 +73,7 @@ proxies:
   - {name: 🇸🇬 Singapore 5 (t.me/SurfShark_ALA), server: 89.187.163.136, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
   - {name: 🇸🇬 Singapore 6 (t.me/SurfShark_ALA), server: 89.187.162.184, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
   
+  - {name: 🇹🇷 Turkey 1 (t.me/SurfShark_ALA), server: 107.150.94.27, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs}
 
   - {name: 🇩🇪 12 (t.me/SurfShark_ALA), server: 138.199.19.179, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
 
@@ -78,12 +91,13 @@ proxies:
   - {name: 🇬🇧 5 (t.me/SurfShark_ALA), server: 5.226.137.10, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
   - {name: 🇬🇧 6 (t.me/SurfShark_ALA), server: 185.16.206.69, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
 
-  - {name: 🇺🇸 19 (t.me/SurfShark_ALA), server: 185.124.240.151, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇸 20 (t.me/SurfShark_ALA), server: 143.244.60.164, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 1 (t.me/SurfShark_ALA), server: 185.124.240.143, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 2 (t.me/SurfShark_ALA), server: 185.124.240.151, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 3 (t.me/SurfShark_ALA), server: 185.124.240.147, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 4 (t.me/SurfShark_ALA), server: 185.124.240.141, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 5 (t.me/SurfShark_ALA), server: 185.124.240.157, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: 🇺🇸 6 (t.me/SurfShark_ALA), server: 185.124.240.159, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
 
-  - {name: 🇩🇰 Denmark 1 (t.me/SurfShark_ALA), server: 89.45.7.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-
-  - {name: 🇹🇷 Turkey 1 (t.me/SurfShark_ALA), server: 107.150.94.27, port: 50768, type: ss, cipher: aes-256-gcm, password: MgWc3J8tAHsZrVqg4BaBHmGs}
 
 proxy-groups:
   - name: 🔰 Manual (t.me/SurfShark_ALA)
@@ -102,6 +116,18 @@ proxy-groups:
       - 🇦🇿 Azerbaijan 4 (t.me/SurfShark_ALA)
       - 🇦🇿 Azerbaijan 5 (t.me/SurfShark_ALA)
       - 🇦🇿 Azerbaijan 6 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 1 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 2 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 3 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 4 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 5 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 6 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 1 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 2 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 3 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 4 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 5 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 6 (t.me/SurfShark_ALA)
       - 🇫🇷 France 1 (t.me/SurfShark_ALA)
       - 🇫🇷 France 2 (t.me/SurfShark_ALA)
       - 🇫🇷 France 3 (t.me/SurfShark_ALA)
@@ -145,9 +171,12 @@ proxy-groups:
       - 🇬🇧 4 (t.me/SurfShark_ALA)
       - 🇬🇧 5 (t.me/SurfShark_ALA)
       - 🇬🇧 6 (t.me/SurfShark_ALA)
-      - 🇺🇸 19 (t.me/SurfShark_ALA)
-      - 🇺🇸 20 (t.me/SurfShark_ALA)
-      - 🇩🇰 Denmark 1 (t.me/SurfShark_ALA)
+      - 🇺🇸 1 (t.me/SurfShark_ALA)
+      - 🇺🇸 2 (t.me/SurfShark_ALA)
+      - 🇺🇸 3 (t.me/SurfShark_ALA)
+      - 🇺🇸 4 (t.me/SurfShark_ALA)
+      - 🇺🇸 5 (t.me/SurfShark_ALA)
+      - 🇺🇸 6 (t.me/SurfShark_ALA)
       - 🇹🇷 Turkey 1 (t.me/SurfShark_ALA)
   - name: ♻️ Best Ping
     type: url-test
@@ -166,6 +195,18 @@ proxy-groups:
       - 🇦🇿 Azerbaijan 4 (t.me/SurfShark_ALA)
       - 🇦🇿 Azerbaijan 5 (t.me/SurfShark_ALA)
       - 🇦🇿 Azerbaijan 6 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 1 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 2 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 3 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 4 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 5 (t.me/SurfShark_ALA)
+      - 🇨🇦 Canada 6 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 1 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 2 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 3 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 4 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 5 (t.me/SurfShark_ALA)
+      - 🇩🇰 Denmark 6 (t.me/SurfShark_ALA)
       - 🇫🇷 France 1 (t.me/SurfShark_ALA)
       - 🇫🇷 France 2 (t.me/SurfShark_ALA)
       - 🇫🇷 France 3 (t.me/SurfShark_ALA)
@@ -209,9 +250,12 @@ proxy-groups:
       - 🇬🇧 4 (t.me/SurfShark_ALA)
       - 🇬🇧 5 (t.me/SurfShark_ALA)
       - 🇬🇧 6 (t.me/SurfShark_ALA)
-      - 🇺🇸 19 (t.me/SurfShark_ALA)
-      - 🇺🇸 20 (t.me/SurfShark_ALA)
-      - 🇩🇰 Denmark 1 (t.me/SurfShark_ALA)
+      - 🇺🇸 1 (t.me/SurfShark_ALA)
+      - 🇺🇸 2 (t.me/SurfShark_ALA)
+      - 🇺🇸 3 (t.me/SurfShark_ALA)
+      - 🇺🇸 4 (t.me/SurfShark_ALA)
+      - 🇺🇸 5 (t.me/SurfShark_ALA)
+      - 🇺🇸 6 (t.me/SurfShark_ALA)
       - 🇹🇷 Turkey 1 (t.me/SurfShark_ALA)
 
 
