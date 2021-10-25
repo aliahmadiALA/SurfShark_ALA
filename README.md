@@ -1,4 +1,5 @@
 # SurfShark_ALA
+Join my Telegram channel-> https://t.me/SurfShark_ALA
 (Surfshark_ALA).txt can be used in the following tools:
 
 📱Android ┌ V2ray (https://play.google.com/store/apps/details?id=com.v2ray.ang)
@@ -22,4 +23,10 @@
 
 
 💻 MacOS ├ Qv2ray (https://github.com/Qv2ray/Qv2ray/releases) + Core (https://github.com/v2fly/v2ray-core/releases/))
-                         
+
+.
+(Surfshark_ALA).yaml can be used in the following tools:
+
+📱Android ├ Clash (https://play.google.com/store/apps/details?id=com.github.kr328.clash)
+
+💻 Windows ├ Clash (https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.17.1/Clash.for.Windows.Setup.0.17.1.exe) 
