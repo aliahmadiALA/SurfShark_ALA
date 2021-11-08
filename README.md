@@ -5,7 +5,8 @@ Subscribe link (.YAML): https://raw.githubusercontent.com/aliahmadiALA/SurfShark
 
 Subscribe link (.JSON): https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA).json
 
-Subscribe link (.TXT):  https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA).txt
+Subscribe link (.TXT):  
+https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA).txt
 
 🔰(Surfshark_ALA).txt🔰 can be used in the following tools👇
 
