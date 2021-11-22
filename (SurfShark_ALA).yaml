@@ -21,18 +21,6 @@ proxy-groups:
     proxies:
       - 🎯 Auto Select BestPing
       - 🔰 Manual
-      - 📛 YouTube without ads
-
-  - name: 📛 YouTube without ads
-    type: select
-    proxies:
-      - 📛 YouTube without ads 1 t.me/SurfShark_ALA _1
-      - 📛 YouTube without ads 2 t.me/SurfShark_ALA _2
-      - 📛 YouTube without ads 3 t.me/SurfShark_ALA _3
-      - 📛 YouTube without ads 4 t.me/SurfShark_ALA _4
-      - 📛 YouTube without ads 5 t.me/SurfShark_ALA _5
-      - 📛 YouTube without ads 6 t.me/SurfShark_ALA _6
-      - 📛 YouTube without ads 7 t.me/SurfShark_ALA _7
 
 
   - name: 🔰 Manual
@@ -47,6 +35,7 @@ proxy-groups:
       - 🇩🇪 Germany 1 t.me/SurfShark_ALA_7
       - 🇩🇪 Germany 2 t.me/SurfShark_ALA_8
       - 🇩🇪 Germany 3 t.me/SurfShark_ALA_9
+
   - name: 🎯 Auto Select BestPing
     type: url-test
     url: http://www.gstatic.com/generate_204
