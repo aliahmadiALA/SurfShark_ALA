@@ -21,7 +21,7 @@ proxy-groups:
     proxies:
       - 🎯 Auto Select BestPing
       - 🔰 Manual
-      
+      - 📛 YouTube without ads
 
   - name: 📛 YouTube without ads
     type: select
