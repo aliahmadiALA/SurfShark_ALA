@@ -5,9 +5,6 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: '📛 YouTube without ads 1 t.me/SurfShark_ALA _1', server: 213.167.242.16, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: BDybfjpcRuiW}
-  - {name: '📛 YouTube without ads 2 t.me/SurfShark_ALA _2', server: 95.142.161.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: uDlqozPwCk4A}
-
   - {name: '🇯🇵 Japan 1 t.me/SurfShark_ALA_1', server: 45.66.134.210, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: '🇫🇷 France 1 t.me/SurfShark_ALA_2', server: 95.85.90.181, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: '🇬🇧 UK.London 1 t.me/SurfShark_ALA_3', server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
@@ -17,6 +14,9 @@ proxies:
   - {name: '🇩🇪 Germany 1 t.me/SurfShark_ALA_7', server: 194.163.134.108, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Tq5iJl9cYkzf}
   - {name: '🇩🇪 Germany 2 t.me/SurfShark_ALA_8', server: 95.111.255.56, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Wh9NryUjBiKu}
   - {name: '🇩🇪 Germany 3 t.me/SurfShark_ALA_9', server: 194.163.134.102, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: bpxC1p5UwZ8u}
+  - {name: '📛 YouTube without ads 1 t.me/SurfShark_ALA _10', server: 213.167.242.16, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: BDybfjpcRuiW}
+  - {name: '📛 YouTube without ads 2 t.me/SurfShark_ALA _11', server: 95.142.161.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: uDlqozPwCk4A}
+
 
 proxy-groups:
   - name: ⚙️ MENU (t.me/Surfshark_ALA)
@@ -29,8 +29,8 @@ proxy-groups:
   - neme: 📛 YouTube without ads
     type: select
     proxies:
-      - 📛 YouTube without ads 1 t.me/SurfShark_ALA _1
-      - 📛 YouTube without ads 2 t.me/SurfShark_ALA _2
+      - 📛 YouTube without ads 1 t.me/SurfShark_ALA _10
+      - 📛 YouTube without ads 2 t.me/SurfShark_ALA _11
 
 
   - name: 🔰 Manual
