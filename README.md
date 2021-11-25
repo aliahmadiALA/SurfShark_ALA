@@ -35,6 +35,6 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 
 🔰Subscribe link (.YAML)🔰 can be used in the following tools👇
 
-📱Android ├ Clash (https://play.google.com/store/apps/details?id=com.github.kr328.clash)
+📱Android ├ [Clash](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
 
-💻 Windows ├ Clash (https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.17.1/Clash.for.Windows.Setup.0.17.1.exe) 
+💻 Windows ├ [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.17.1/Clash.for.Windows.Setup.0.17.1.exe) 
