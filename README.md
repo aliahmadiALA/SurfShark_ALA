@@ -10,11 +10,11 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 
 🔰Subscribe link (.TXT)🔰 can be used in the following tools👇
 
-📱Android ┌ V2ray (https://play.google.com/store/apps/details?id=com.v2ray.ang)
+📱Android ┌ [V2ray](https://play.google.com/store/apps/details?id=com.v2ray.ang) 
 
-📱Android ├ SagerNet (https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet&gl)
+📱Android ├ [SagerNet](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet&gl) 
 
-📱Android └ AnXray (https://github.com/XTLS/AnXray/releases/) ✔️
+📱Android └ [AnXray](https://github.com/XTLS/AnXray/releases/) ✔️
 
 
 📱iOS ┌ OneClick (https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) (ios 14+) 
