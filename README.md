@@ -17,20 +17,20 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 📱Android └ [AnXray](https://github.com/XTLS/AnXray/releases/) ✔️
 
 
-📱iOS ┌ OneClick (https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) (ios 14+) 
+📱iOS ┌ [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) (ios 14+) 
        
-📱iOS ├ Potatso lite (https://apps.apple.com/us/app/potatso-lite/id1239860606) (ios 13+)✔️
+📱iOS ├ [Potatso lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) (ios 13+)✔️
 
-📱iOS └ Spectre (https://apps.apple.com/us/app/spectre-vpn/id1508712998) (ios 11+) 
+📱iOS └ [Spectre](https://apps.apple.com/us/app/spectre-vpn/id1508712998) (ios 11+) 
 
                            
-💻 Windows ├ V2ray (https://github.com/2dust/v2rayN/releases/download/4.19/v2rayN-Core.zip) ✔️
+💻 Windows ├ [V2rayN](https://github.com/2dust/v2rayN/releases/download/4.19/v2rayN-Core.zip) ✔️
 
 
-🐧 Linux ├ Qv2ray (https://github.com/Qv2ray/Qv2ray/releases) + Core (https://github.com/v2fly/v2ray-core/releases/)
+🐧 Linux ├ [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases) + [Core](https://github.com/v2fly/v2ray-core/releases/)
 
 
-💻 MacOS ├ Qv2ray (https://github.com/Qv2ray/Qv2ray/releases) + Core (https://github.com/v2fly/v2ray-core/releases/))
+💻 MacOS ├ [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases) + [Core](https://github.com/v2fly/v2ray-core/releases/) 
 
 
 🔰Subscribe link (.YAML)🔰 can be used in the following tools👇
