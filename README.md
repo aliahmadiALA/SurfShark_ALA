@@ -8,7 +8,7 @@ Subscribe link (.JSON): https://raw.githubusercontent.com/aliahmadiALA/SurfShark
 Subscribe link (.TXT):  
 https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA).txt
 
-🔰(Surfshark_ALA).txt🔰 can be used in the following tools👇
+🔰Subscribe link (.TXT)🔰 can be used in the following tools👇
 
 📱Android ┌ V2ray (https://play.google.com/store/apps/details?id=com.v2ray.ang)
 
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 💻 MacOS ├ Qv2ray (https://github.com/Qv2ray/Qv2ray/releases) + Core (https://github.com/v2fly/v2ray-core/releases/))
 
 
-🔰(Surfshark_ALA).yaml🔰 can be used in the following tools👇
+🔰Subscribe link (.YAML)🔰 can be used in the following tools👇
 
 📱Android ├ Clash (https://play.google.com/store/apps/details?id=com.github.kr328.clash)
 
