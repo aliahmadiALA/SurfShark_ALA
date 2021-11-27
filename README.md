@@ -1,6 +1,4 @@
-#SurfShark_ALA
-
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@134.195.196.81:2375#%F0%9F%87%A8%F0%9F%87%A6%20Canada%201%20%28t.me/SurfShark_ALA%29
+# SurfShark_ALA
 
 
 Join my Telegram channel-> https://t.me/SurfShark_ALA
