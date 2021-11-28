@@ -57,7 +57,7 @@ proxies:
   - {name: '🇹🇷 Turkey 1 t.me/SurfShark_ALA_49', server: 185.17.113.234, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: '🇹🇷 Turkey 2 t.me/SurfShark_ALA_50', server: 185.17.113.234, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: '🇺🇦 Ukraine  1 t.me/SurfShark_ALA_51', server: 37.19.218.197, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Mx6DztQqZb7j34FdWjER}
-  - {name: '🇦🇪 UAE 1 t.me/SurfShark_ALA_52', server: 185.241.124.238, port: 4554, type: ss, cipher: chacha20, password: AY5tXTbjRC}
+  - {name: '🇦🇪 UAE 1 t.me/SurfShark_ALA_52', server: 185.241.124.238, port: 4554, type: ss, cipher: chacha20-ietf-poly1305, password: AY5tXTbjRC}
   - {name: '🇬🇧 UK.London 1 t.me/SurfShark_ALA_53', server: 176.10.80.6, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: '🇬🇧 UK.London 2 t.me/SurfShark_ALA_54', server: 77.243.177.78, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Qu9b6jbYLF5Dtha3n7W2}
   - {name: '🇺🇸 USA.LosAngeles 1 t.me/SurfShark_ALA_55', server: 77.247.126.153, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
