@@ -72,7 +72,9 @@ proxy-groups:
       - 📛 YouTube without ads
 
   - name: 📛 YouTube without ads
-    type: select
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
     proxies:
       - 📛 YouTube without ads 1 t.me/SurfShark_ALA _1
       - 📛 YouTube without ads 2 t.me/SurfShark_ALA _2
