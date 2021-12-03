@@ -4,7 +4,7 @@
     "server_port": 443,
     "password": "BDybfjpcRuiW",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "📛 YouTube without ads 1 (t.me\/SurfShark_ALA)",
+    "remarks": "📛 YouTube without ads (t.me\/SurfShark_ALA)",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -14,6 +14,8 @@
     },
     "udpdns": false
   },
+
+
   {
     "server": "95.142.161.130",
     "server_port": 443,
