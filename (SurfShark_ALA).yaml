@@ -5,6 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
+
   - {name: '📛 YouTube without ads 1 t.me/SurfShark_ALA _1', server: 185.225.19.64, port: 50003, type: ss, cipher: aes-256-cfb, password: 8460400130}
   - {name: '📛 YouTube without ads 2 t.me/SurfShark_ALA _2', server: 185.17.113.234, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: '📛 YouTube without ads 3 t.me/SurfShark_ALA _3', server: 185.17.113.234, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
