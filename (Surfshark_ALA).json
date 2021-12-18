@@ -1,12 +1,12 @@
 [
   {
-    "server": "213.167.242.16",
-    "server_port": 443,
-    "password": "BDybfjpcRuiW",
-    "method": "chacha20-ietf-poly1305",
+    "server": "185.225.19.64",
+    "server_port": 50003,
+    "password": "8460400130",
+    "method": "aes-256-cfb",
     "remarks": "📛 YouTube without ads 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -14,15 +14,74 @@
     },
     "udpdns": false
   },
-
   {
-    "server": "95.142.161.130",
+    "server": "167.86.82.191",
     "server_port": 443,
-    "password": "uDlqozPwCk4A",
+    "password": "1z7k5IMlPsvk",
     "method": "chacha20-ietf-poly1305",
     "remarks": "📛 YouTube without ads 2 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "95.142.175.14",
+    "server_port": 443,
+    "password": "tkAx1ehPPkMN",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "📛 YouTube without ads 3 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "92.243.24.236",
+    "server_port": 443,
+    "password": "LE6Ee6PELhVu",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "📛 YouTube without ads 4 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "46.226.111.148",
+    "server_port": 443,
+    "password": "vPwCvtbOUMkb",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "📛 YouTube without ads 5 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "131.255.4.140",
+    "server_port": 8389,
+    "password": "UHu5NzfXjuur52h9",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇦🇷 Argentina 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -37,7 +96,52 @@
     "method": "aes-256-cfb",
     "remarks": "🇦🇹 Austria 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "94.20.154.38",
+    "server_port": 50000,
+    "password": "9344665077",
+    "method": "aes-256-cfb",
+    "remarks": "🇦🇿 Azerbaijan 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "94.20.154.26",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "🇦🇿 Azerbaijan 2 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "94.20.154.38",
+    "server_port": 50006,
+    "password": "9344665077",
+    "method": "aes-256-cfb",
+    "remarks": "🇦🇿 Azerbaijan 3 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -52,7 +156,7 @@
     "method": "aes-256-gcm",
     "remarks": "🇧🇦 Bosnia-and-Herzegovina 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -67,7 +171,7 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇧🇷 Brazil  1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -82,7 +186,7 @@
     "method": "aes-256-gcm",
     "remarks": "🇨🇦 Canada 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -97,7 +201,7 @@
     "method": "aes-256-gcm",
     "remarks": "🇨🇦 Canada 2 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -112,7 +216,7 @@
     "method": "aes-256-gcm",
     "remarks": "🇨🇦 Canada 3 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -127,7 +231,7 @@
     "method": "aes-256-gcm",
     "remarks": "🇨🇦 Canada 4 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -142,7 +246,7 @@
     "method": "aes-256-gcm",
     "remarks": "🇨🇦 Canada 5 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -157,7 +261,7 @@
     "method": "aes-256-gcm",
     "remarks": "🇨🇦 Canada 6 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -172,7 +276,7 @@
     "method": "aes-256-gcm",
     "remarks": "🇨🇦 Canada 7 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -181,13 +285,13 @@
     "udpdns": false
   },
   {
-    "server": "192.71.227.17",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
+    "server": "217.138.200.242",
+    "server_port": 8389,
+    "password": "EGTHtnGhcnggx5yBYSqS",
+    "method": "chacha20-ietf-poly1305",
     "remarks": "🇨🇦 Canada 8 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -202,7 +306,22 @@
     "method": "aes-256-cfb",
     "remarks": "🇨🇦 Canada 9 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "71.19.249.109",
+    "server_port": 8389,
+    "password": "QBLw4rLXQ6ebxpWwSKDL",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇨🇦 Canada 10 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -217,7 +336,7 @@
     "method": "aes-256-cfb",
     "remarks": "🇨🇿 CzechRepublic 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -226,13 +345,13 @@
     "udpdns": false
   },
   {
-    "server": "188.126.89.174",
-    "server_port": 8389,
-    "password": "SkGJxCjsuc8DJsB2GtM4",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇫🇮 Finland  1 (t.me\/SurfShark_ALA)",
+    "server": "37.143.129.186",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "🇫🇮 Finland 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -241,13 +360,13 @@
     "udpdns": false
   },
   {
-    "server": "95.85.90.181",
-    "server_port": 804,
-    "password": "G!yBwPWH3Vao",
+    "server": "92.243.24.236",
+    "server_port": 443,
+    "password": "LE6Ee6PELhVu",
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇫🇷 France 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -256,13 +375,13 @@
     "udpdns": false
   },
   {
-    "server": "213.167.242.16",
+    "server": "46.226.111.148",
     "server_port": 443,
-    "password": "BDybfjpcRuiW",
+    "password": "vPwCvtbOUMkb",
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇫🇷 France 2 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -271,13 +390,58 @@
     "udpdns": false
   },
   {
-    "server": "194.163.134.108",
+    "server": "95.142.175.14",
     "server_port": 443,
-    "password": "Tq5iJl9cYkzf",
+    "password": "tkAx1ehPPkMN",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇫🇷 France 3 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "95.142.161.161",
+    "server_port": 443,
+    "password": "X7EBlPe92tq6",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇫🇷 France 4 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "92.243.24.68",
+    "server_port": 443,
+    "password": "bIS3QQFwFIm1",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇫🇷 France 5 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "167.86.82.191",
+    "server_port": 443,
+    "password": "1z7k5IMlPsvk",
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇩🇪 Germany 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -286,13 +450,13 @@
     "udpdns": false
   },
   {
-    "server": "95.111.255.56",
-    "server_port": 443,
-    "password": "Wh9NryUjBiKu",
-    "method": "chacha20-ietf-poly1305",
+    "server": "178.18.255.190",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
     "remarks": "🇩🇪 Germany 2 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -301,13 +465,13 @@
     "udpdns": false
   },
   {
-    "server": "194.163.134.102",
-    "server_port": 443,
-    "password": "bpxC1p5UwZ8u",
-    "method": "chacha20-ietf-poly1305",
+    "server": "213.136.80.36",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
     "remarks": "🇩🇪 Germany 3 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -316,13 +480,13 @@
     "udpdns": false
   },
   {
-    "server": "194.163.134.104",
-    "server_port": 443,
-    "password": "dZpagSuA9Vxe",
-    "method": "chacha20-ietf-poly1305",
+    "server": "135.125.236.229",
+    "server_port": 50003,
+    "password": "8460400130",
+    "method": "aes-256-cfb",
     "remarks": "🇩🇪 Germany 4 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -331,13 +495,13 @@
     "udpdns": false
   },
   {
-    "server": "161.97.64.169",
-    "server_port": 443,
-    "password": "czXXqP8K5Uya",
-    "method": "chacha20-ietf-poly1305",
+    "server": "146.0.36.23",
+    "server_port": 2376,
+    "password": "faBAoD54k87UJG7",
+    "method": "aes-256-gcm",
     "remarks": "🇩🇪 Germany 5 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -346,13 +510,13 @@
     "udpdns": false
   },
   {
-    "server": "161.97.64.163",
-    "server_port": 443,
-    "password": "KW5I1uEZBI0y",
-    "method": "chacha20-ietf-poly1305",
+    "server": "37.1.192.129",
+    "server_port": 55605,
+    "password": "ruEvBSp",
+    "method": "aes-256-cfb",
     "remarks": "🇩🇪 Germany 6 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -361,13 +525,13 @@
     "udpdns": false
   },
   {
-    "server": "194.163.134.101",
-    "server_port": 443,
-    "password": "8doqA73pHheo",
-    "method": "chacha20-ietf-poly1305",
+    "server": "146.0.36.44",
+    "server_port": 8881,
+    "password": "kDWvXYZoTBcGkC4",
+    "method": "aes-256-gcm",
     "remarks": "🇩🇪 Germany 7 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -376,13 +540,28 @@
     "udpdns": false
   },
   {
-    "server": "161.97.64.196",
-    "server_port": 443,
-    "password": "65OsnpZHYW5P",
-    "method": "chacha20-ietf-poly1305",
+    "server": "146.0.36.44",
+    "server_port": 6679,
+    "password": "TEzjfAYq2IjtuoS",
+    "method": "aes-256-gcm",
     "remarks": "🇩🇪 Germany 8 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "146.0.36.44",
+    "server_port": 8080,
+    "password": "KixLvKzwjekG00rm",
+    "method": "aes-256-gcm",
+    "remarks": "🇩🇪 Germany 9 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -397,7 +576,7 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇬🇷 Greece 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -412,7 +591,7 @@
     "method": "aes-256-gcm",
     "remarks": "🇭🇰 Hong Kong 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -427,7 +606,7 @@
     "method": "aes-256-gcm",
     "remarks": "🇭🇰 Hong Kong 2 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -442,7 +621,7 @@
     "method": "aes-256-cfb",
     "remarks": "🇭🇺 Hungary 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -457,7 +636,7 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇮🇳 India 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -472,7 +651,7 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇮🇱 Israel 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -487,7 +666,7 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇮🇱 Israel 2 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -502,7 +681,7 @@
     "method": "aes-256-cfb",
     "remarks": "🇮🇹 Italy.Milan 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -517,7 +696,7 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇯🇵 Japan 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -532,7 +711,112 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇯🇵 Japan 2 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "158.247.200.56",
+    "server_port": 5600,
+    "password": "Y6R9pAtvxxzmGC",
+    "method": "aes-256-gcm",
+    "remarks": "🇰🇷 South Korea 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "158.247.206.19",
+    "server_port": 6697,
+    "password": "TEzjfAYq2IjtuoS",
+    "method": "aes-256-gcm",
+    "remarks": "🇰🇷 South Korea 2 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "141.164.57.134",
+    "server_port": 6379,
+    "password": "zDNVedRFPQexG9v",
+    "method": "aes-256-gcm",
+    "remarks": "🇰🇷 South Korea 3 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "158.247.200.56",
+    "server_port": 5004,
+    "password": "g5MeD6Ft3CWlJId",
+    "method": "aes-256-gcm",
+    "remarks": "🇰🇷 South Korea 4 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "141.164.57.134",
+    "server_port": 5000,
+    "password": "Y6R9pAtvxxzmGC",
+    "method": "aes-256-gcm",
+    "remarks": "🇰🇷 South Korea 5 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "141.164.53.152",
+    "server_port": 2375,
+    "password": "faBAoD54k87UJG7",
+    "method": "aes-256-gcm",
+    "remarks": "🇰🇷 South Korea 6 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "92.223.105.40",
+    "server_port": 50006,
+    "password": "9344665077",
+    "method": "aes-256-cfb",
+    "remarks": "🇱🇺 Luxembourg 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -547,7 +831,7 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇲🇾 Malaysia 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -562,7 +846,7 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇲🇽 Mexico 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -577,7 +861,7 @@
     "method": "aes-256-cfb",
     "remarks": "🇲🇩 Moldova 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -586,13 +870,13 @@
     "udpdns": false
   },
   {
-    "server": "161.97.64.196",
-    "server_port": 443,
-    "password": "65OsnpZHYW5P",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "🇳🇱 Netherlands  1 (t.me\/SurfShark_ALA)",
+    "server": "91.232.105.253",
+    "server_port": 9101,
+    "password": "e4FCWrgpkji3QY",
+    "method": "aes-256-gcm",
+    "remarks": "🇳🇱 Netherlands 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -607,7 +891,127 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇳🇬 Nigeria 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "46.29.218.6",
+    "server_port": 8090,
+    "password": "PCnnH6SQSnfoS27",
+    "method": "aes-256-gcm",
+    "remarks": "🇳🇴 Norway 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "46.29.219.246",
+    "server_port": 3306,
+    "password": "Y6R9pAtvxxzmGC",
+    "method": "aes-256-gcm",
+    "remarks": "🇳🇴 Norway 2 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "46.29.219.246",
+    "server_port": 5601,
+    "password": "Y6R9pAtvxxzmGC",
+    "method": "aes-256-gcm",
+    "remarks": "🇳🇴 Norway 3 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "46.29.218.170",
+    "server_port": 8888,
+    "password": "Y6R9pAtvxxzmGC",
+    "method": "aes-256-gcm",
+    "remarks": "🇳🇴 Norway 4 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "46.29.218.146",
+    "server_port": 8090,
+    "password": "PCnnH6SQSnfoS27",
+    "method": "aes-256-gcm",
+    "remarks": "🇳🇴 Norway 5 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "46.29.218.6",
+    "server_port": 3306,
+    "password": "Y6R9pAtvxxzmGC",
+    "method": "aes-256-gcm",
+    "remarks": "🇳🇴 Norway 6 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "5.188.108.155",
+    "server_port": 889,
+    "password": "KhS1x8JT7p58RIp7gz",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇵🇱 Poland 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "5.188.108.155",
+    "server_port": 890,
+    "password": "KhS1x8JT7p58RIp7gz",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇵🇱 Poland 2 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -622,7 +1026,7 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇵🇹 Portugal 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -637,7 +1041,52 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇷🇴 Romania 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "92.38.139.95",
+    "server_port": 50005,
+    "password": "7620447880",
+    "method": "aes-256-cfb",
+    "remarks": "🇷🇺 Russia 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "82.202.220.242",
+    "server_port": 8389,
+    "password": "Kw6hMXQ2Z7ey7mf2Uqyr",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇷🇺 Russia 2 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "83.217.9.76",
+    "server_port": 989,
+    "password": "f8f7aCzcPKbsF8p3",
+    "method": "aes-256-cfb",
+    "remarks": "🇷🇺 Russia 3 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -652,7 +1101,7 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇸🇬 Singapore 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -667,7 +1116,7 @@
     "method": "aes-256-gcm",
     "remarks": "🇪🇸 Spain 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -682,7 +1131,142 @@
     "method": "aes-256-gcm",
     "remarks": "🇪🇸 Spain 2 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.196.156.106",
+    "server_port": 801,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇪 Sweden 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.196.156.106",
+    "server_port": 802,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇪 Sweden 2 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.196.156.106",
+    "server_port": 803,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇪 Sweden 3 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.196.156.106",
+    "server_port": 804,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇪 Sweden 4 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.196.156.106",
+    "server_port": 805,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇪 Sweden 5 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.196.156.106",
+    "server_port": 806,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇪 Sweden 6 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.196.156.106",
+    "server_port": 807,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇪 Sweden 7 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.196.156.106",
+    "server_port": 808,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇪 Sweden 8 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.196.156.106",
+    "server_port": 809,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇸🇪 Sweden 9 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -697,7 +1281,7 @@
     "method": "aes-256-cfb",
     "remarks": "🇨🇭 Switzerland 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -712,7 +1296,7 @@
     "method": "rc4-md5",
     "remarks": "🇹🇼 Taiwan 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -722,12 +1306,72 @@
   },
   {
     "server": "185.17.113.234",
-    "server_port": 812,
+    "server_port": 801,
     "password": "G!yBwPWH3Vao",
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇹🇷 Turkey 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.17.113.234",
+    "server_port": 802,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇹🇷 Turkey 2 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.17.113.234",
+    "server_port": 803,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇹🇷 Turkey 3 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.17.113.234",
+    "server_port": 804,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇹🇷 Turkey 4 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.17.113.234",
+    "server_port": 805,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇹🇷 Turkey 5 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -740,9 +1384,39 @@
     "server_port": 806,
     "password": "G!yBwPWH3Vao",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇹🇷 Turkey 2 (t.me\/SurfShark_ALA)",
+    "remarks": "🇹🇷 Turkey 6 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.17.113.234",
+    "server_port": 807,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇹🇷 Turkey 7 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.17.113.234",
+    "server_port": 808,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇹🇷 Turkey 8 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -757,7 +1431,7 @@
     "method": "chacha20-ietf-poly1305",
     "remarks": "🇺🇦 Ukraine  1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -766,13 +1440,13 @@
     "udpdns": false
   },
   {
-    "server": "185.241.124.238",
-    "server_port": 4554,
-    "password": "AY5tXTbjRC",
-    "method": "chacha20",
+    "server": "217.138.193.6",
+    "server_port": 801,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
     "remarks": "🇦🇪 UAE 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -781,13 +1455,88 @@
     "udpdns": false
   },
   {
-    "server": "176.10.80.6",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
+    "server": "217.138.193.6",
+    "server_port": 802,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇦🇪 UAE 2 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "217.138.193.6",
+    "server_port": 803,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇦🇪 UAE 3 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "217.138.193.6",
+    "server_port": 804,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇦🇪 UAE 4 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "217.138.193.6",
+    "server_port": 805,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇦🇪 UAE 5 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "217.138.193.6",
+    "server_port": 806,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇦🇪 UAE 6 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "172.99.190.153",
+    "server_port": 7002,
+    "password": "RexnBgU7EV5ADxG",
+    "method": "aes-256-gcm",
     "remarks": "🇬🇧 UK.London 1 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -796,13 +1545,208 @@
     "udpdns": false
   },
   {
-    "server": "77.243.177.78",
-    "server_port": 8389,
-    "password": "Qu9b6jbYLF5Dtha3n7W2",
-    "method": "chacha20-ietf-poly1305",
+    "server": "172.99.190.235",
+    "server_port": 5601,
+    "password": "Y6R9pAtvxxzmGC",
+    "method": "aes-256-gcm",
     "remarks": "🇬🇧 UK.London 2 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "172.99.190.139",
+    "server_port": 5600,
+    "password": "Y6R9pAtvxxzmGC",
+    "method": "aes-256-gcm",
+    "remarks": "🇬🇧 UK.London 3 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "172.99.190.246",
+    "server_port": 5003,
+    "password": "g5MeD6Ft3CWlJId",
+    "method": "aes-256-gcm",
+    "remarks": "🇬🇧 UK.London 4 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "172.99.190.235",
+    "server_port": 8882,
+    "password": "kDWvXYZoTBcGkC4",
+    "method": "aes-256-gcm",
+    "remarks": "🇬🇧 UK.London 5 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "172.99.190.139",
+    "server_port": 8888,
+    "password": "Y6R9pAtvxxzmGC",
+    "method": "aes-256-gcm",
+    "remarks": "🇬🇧 UK.London 6 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "172.99.190.246",
+    "server_port": 8080,
+    "password": "KixLvKzwjekG00rm",
+    "method": "aes-256-gcm",
+    "remarks": "🇬🇧 UK.London 7 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "23.226.131.146",
+    "server_port": 8389,
+    "password": "ckX2YfENbjCtVzVJphFP",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 USA.NewJersey 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "70.39.71.2",
+    "server_port": 8389,
+    "password": "XkH8z99cQguQ8ywK5jhV",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 USA.Denver 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "104.223.91.146",
+    "server_port": 8389,
+    "password": "QKyLzp5JUG6XEGy2wbEE",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 USA.Georgia.Atlanta 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "104.140.21.178",
+    "server_port": 8389,
+    "password": "4kUSnsELPgwDFqkrnPqL",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 USA.Seattle 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "170.130.31.114",
+    "server_port": 8388,
+    "password": "4W2SJmdKUMJjjkVfRDdh",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 USA.Texas.Dallas 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "170.130.15.34",
+    "server_port": 8389,
+    "password": "q8gsJVLZ5eYXU3uhmnbH",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 USA.Phoenix 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "66.55.92.101",
+    "server_port": 8389,
+    "password": "NK4wZejCzDfPdWXTK4FW",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 USA.LosAngeles 1 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "66.55.92.75",
+    "server_port": 8389,
+    "password": "6g8n89NARNcuTH2XvUtZ",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 USA.LosAngeles 2 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
@@ -815,9 +1759,24 @@
     "server_port": 812,
     "password": "G!yBwPWH3Vao",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "🇺🇸 USA.LosAngeles 1 (t.me\/SurfShark_ALA)",
+    "remarks": "🇺🇸 USA.LosAngeles 3 (t.me\/SurfShark_ALA)",
     "route": "all",
-    "remote_dns": "dns.google",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "169.62.109.140",
+    "server_port": 8389,
+    "password": "74cf7gsXJgd9Z4MAW42L",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 USA.LosAngeles 4 (t.me\/SurfShark_ALA)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
     "ipv6": false,
     "metered": false,
     "proxy_apps": {
