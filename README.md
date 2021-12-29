@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 📱iOS └ [Spectre](https://apps.apple.com/us/app/spectre-vpn/id1508712998) (ios 11+) 
 
                            
-💻 Windows ├ [V2rayN](https://github.com/2dust/v2rayN/releases/download/4.19/v2rayN-Core.zip) ✔️
+💻 Windows ├ [V2rayN](https://github.com/2dust/v2rayN/releases/download/4.27/v2rayN-Core.zip) ✔️
 
 
 🐧 Linux ├ [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases) + [Core](https://github.com/v2fly/v2ray-core/releases/)
@@ -39,4 +39,6 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 
 📱Android ├ [Clash](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
 
-💻 Windows ├ [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.17.1/Clash.for.Windows.Setup.0.17.1.exe) 
+💻 Windows ├ [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.3/Clash.for.Windows.Setup.0.19.3.exe) 
+
+🐧 Linux ├ [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.3/Clash.for.Windows-0.19.3-x64-linux.tar.gz) 
