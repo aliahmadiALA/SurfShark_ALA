@@ -15,160 +15,176 @@ proxies:
   - {name: '📛 YouTube without ads 8 t.me/SurfShark_ALA _8', server: 146.0.36.44, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
   - {name: '📛 YouTube without ads 9 t.me/SurfShark_ALA _9', server: 146.0.36.44, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
 
-  - {name: '🇦🇷 Argentina 1 t.me/SurfShark_ALA_10', server: 131.255.4.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: UHu5NzfXjuur52h9}
-  - {name: '🇦🇹 Austria 1 t.me/SurfShark_ALA_11', server: 151.236.30.184, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇦🇿 Azerbaijan 1 t.me/SurfShark_ALA _12', server: 94.20.154.38, port: 50000, type: ss, cipher: aes-256-cfb, password: 9344665077}
-  - {name: '🇦🇿 Azerbaijan 2 t.me/SurfShark_ALA _13', server: 94.20.154.26, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇦🇿 Azerbaijan 3 t.me/SurfShark_ALA _14', server: 94.20.154.38, port: 50006, type: ss, cipher: aes-256-cfb, password: 9344665077}
-  - {name: '🇧🇪 Belgium 1 t.me/SurfShark_ALA _15', server: 193.9.114.34, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇧🇪 Belgium 2 t.me/SurfShark_ALA _16', server: 77.243.191.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs}
-  - {name: '🇧🇪 Belgium 3 t.me/SurfShark_ALA _17', server: 193.9.114.34, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇧🇪 Belgium 4 t.me/SurfShark_ALA _18', server: 193.9.114.34, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇧🇪 Belgium 5 t.me/SurfShark_ALA _19', server: 193.9.114.34, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇧🇪 Belgium 6 t.me/SurfShark_ALA _20', server: 193.9.114.34, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇧🇪 Belgium 7 t.me/SurfShark_ALA _21', server: 193.9.114.34, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇧🇦 Bosnia-and-Herzegovina 1 t.me/SurfShark_ALA_22', server: 185.99.3.108, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: '🇧🇷 Brazil  1 t.me/SurfShark_ALA_23', server: 177.54.152.89, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2GWsqE7Gr3nRMuuQZfFa}
-  - {name: '🇨🇦 Canada 1 t.me/SurfShark_ALA_24', server: 134.195.196.81, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: '🇨🇦 Canada 2 t.me/SurfShark_ALA_25', server: 134.195.196.81, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇨🇦 Canada 3 t.me/SurfShark_ALA_26', server: 134.195.196.133, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: '🇨🇦 Canada 4 t.me/SurfShark_ALA_27', server: 134.195.196.165, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: '🇨🇦 Canada 5 t.me/SurfShark_ALA_28', server: 134.195.196.165, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: '🇨🇦 Canada 6 t.me/SurfShark_ALA_29', server: 134.195.196.165, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: '🇨🇦 Canada 7 t.me/SurfShark_ALA_30', server: 134.195.198.250, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: '🇨🇦 Canada 8 t.me/SurfShark_ALA_31', server: 217.138.200.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: EGTHtnGhcnggx5yBYSqS}
-  - {name: '🇨🇦 Canada 9 t.me/SurfShark_ALA_32', server: 192.71.227.64, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇨🇦 Canada 10 t.me/SurfShark_ALA_33', server: 71.19.249.109, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QBLw4rLXQ6ebxpWwSKDL}
-  - {name: '🇨🇿 CzechRepublic 1 t.me/SurfShark_ALA_34', server: 193.235.207.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇩🇰 Denmark 1 t.me/SurfShark_ALA _35', server: 5.183.101.229, port: 50003, type: ss, cipher: aes-256-cfb, password: 8460400130}
-  - {name: '🇩🇰 Denmark 2 t.me/SurfShark_ALA _36', server: 142.202.48.77, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: '🇫🇮 Finland 1 t.me/SurfShark_ALA_37', server: 37.143.129.186, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇫🇷 France 1 t.me/SurfShark_ALA_38', server: 92.243.24.236, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: LE6Ee6PELhVu}
-  - {name: '🇫🇷 France 2 t.me/SurfShark_ALA_39', server: 46.226.111.148, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: vPwCvtbOUMkb}
-  - {name: '🇫🇷 France 3 t.me/SurfShark_ALA_40', server: 95.142.175.14, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: tkAx1ehPPkMN}
-  - {name: '🇫🇷 France 4 t.me/SurfShark_ALA_41', server: 95.142.161.161, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: X7EBlPe92tq6}
-  - {name: '🇫🇷 France 5 t.me/SurfShark_ALA_42', server: 92.243.24.68, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: bIS3QQFwFIm1}
-  - {name: '🇫🇷 France 6 t.me/SurfShark_ALA_43', server: 135.125.248.215, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇫🇷 France 7 t.me/SurfShark_ALA_44', server: 135.125.248.215, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇫🇷 France 8 t.me/SurfShark_ALA_45', server: 135.125.248.215, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇫🇷 France 9 t.me/SurfShark_ALA_46', server: 135.125.248.215, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇩🇪 Germany 1 t.me/SurfShark_ALA_47', server: 167.86.82.191, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1z7k5IMlPsvk}
-  - {name: '🇩🇪 Germany 2 t.me/SurfShark_ALA_48', server: 178.18.255.190, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇩🇪 Germany 3 t.me/SurfShark_ALA_49', server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇩🇪 Germany 4 t.me/SurfShark_ALA_50', server: 135.125.236.229, port: 50003, type: ss, cipher: aes-256-cfb, password: 8460400130}
-  - {name: '🇩🇪 Germany 5 t.me/SurfShark_ALA_51', server: 146.0.36.23, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: '🇩🇪 Germany 6 t.me/SurfShark_ALA_52', server: 37.1.192.129, port: 55605, type: ss, cipher: aes-256-cfb, password: ruEvBSp}
-  - {name: '🇩🇪 Germany 7 t.me/SurfShark_ALA_53', server: 146.0.36.44, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: '🇩🇪 Germany 8 t.me/SurfShark_ALA_54', server: 146.0.36.44, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: '🇩🇪 Germany 9 t.me/SurfShark_ALA_55', server: 146.0.36.44, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: '🇬🇷 Greece 1 t.me/SurfShark_ALA_56', server: 185.51.134.210, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: mTrN2fMYeWJwrkWpTnL2}
-  - {name: '🇭🇰 Hong Kong 1 t.me/SurfShark_ALA _57', server: 118.107.244.110, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: '🇭🇰 Hong Kong 2 t.me/SurfShark_ALA _58', server: 118.107.244.110, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇭🇺 Hungary 1 t.me/SurfShark_ALA  _59', server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇮🇳 India 1 t.me/SurfShark_ALA_60', server: 169.38.107.52, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 7D4GYNDaFy4eebe47tvF}
-  - {name: '🇮🇳 India 2 t.me/SurfShark_ALA_61', server: 172.105.63.119, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: '🇮🇳India#🇮🇳 India 3 t.me/SurfShark_ALA_62', server: 192.46.212.33, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: '🇮🇳India#🇮🇳 India 4 t.me/SurfShark_ALA_63', server: 192.46.212.33, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇮🇳India#🇮🇳 India 5 t.me/SurfShark_ALA_64', server: 192.46.212.33, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: '🇮🇳India#🇮🇳 India 6 t.me/SurfShark_ALA_65', server: 192.46.210.73, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: '🇮🇳India#🇮🇳 India 7 t.me/SurfShark_ALA_66', server: 192.46.210.73, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇮🇳India#🇮🇳 India 8 t.me/SurfShark_ALA_67', server: 192.46.210.73, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇮🇪 Ireland 1 t.me/SurfShark_ALA_68', server: 3.249.52.148, port: 50004, type: ss, cipher: aes-256-cfb, password: 4415934295}
-  - {name: '🇮🇪 Ireland 2 t.me/SurfShark_ALA_69', server: 217.138.222.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: AsLgDbA45KTMXumtzWhf}
-  - {name: '🇮🇱 Israel 1 t.me/SurfShark_ALA_70', server: 63.250.61.77, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇮🇱 Israel 2 t.me/SurfShark_ALA_71', server: 212.199.61.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: scDj68fv6xkMg2np9RgW}
-  - {name: '🇮🇹 Italy.Milan 1 t.me/SurfShark_ALA_72', server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇮🇹 Italy.Milan 2 t.me/SurfShark_ALA_73', server: 95.141.37.111, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇮🇹 Italy.Milan 3 t.me/SurfShark_ALA_74', server: 95.141.37.111, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇮🇹 Italy.Milan 4 t.me/SurfShark_ALA_75', server: 95.141.37.111, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇮🇹 Italy.Milan 5 t.me/SurfShark_ALA_76', server: 95.141.37.111, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇯🇵 Japan 1 t.me/SurfShark_ALA _77', server: 45.66.134.210, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇯🇵 Japan 2 t.me/SurfShark_ALA _78', server: 5.181.5.136, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇯🇵 Japan 1 t.me/SurfShark_ALA _79', server: 45.66.134.210, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇯🇵 Japan 1 t.me/SurfShark_ALA _80', server: 45.66.134.210, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇯🇵 Japan 1 t.me/SurfShark_ALA _81', server: 45.66.134.210, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇯🇵 Japan 2 t.me/SurfShark_ALA _82', server: 5.181.5.136, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇯🇵 Japan 2 t.me/SurfShark_ALA _83', server: 5.181.5.136, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇯🇵 Japan 2 t.me/SurfShark_ALA _84', server: 5.181.5.136, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇰🇷 South Korea 1 t.me/SurfShark_ALA_85', server: 158.247.200.56, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇰🇷 South Korea 2 t.me/SurfShark_ALA_86', server: 158.247.206.19, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-  - {name: '🇰🇷 South Korea 3 t.me/SurfShark_ALA_87', server: 141.164.57.134, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: '🇰🇷 South Korea 4 t.me/SurfShark_ALA_88', server: 158.247.200.56, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇰🇷 South Korea 5 t.me/SurfShark_ALA_89', server: 141.164.57.134, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇰🇷 South Korea 6 t.me/SurfShark_ALA_90', server: 141.164.53.152, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: '🇱🇺 Luxembourg 1 t.me/SurfShark_ALA_91', server: 92.223.105.40, port: 50006, type: ss, cipher: aes-256-cfb, password: 9344665077}
-  - {name: '🇲🇾 Malaysia 1 t.me/SurfShark_ALA_92', server: 223.25.246.4, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: w4GUD28Bw9uCMdbc2pqA}
-  - {name: '🇲🇽 Mexico 1 t.me/SurfShark_ALA_93', server: 169.57.35.97, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 3Q5yYEGGMu8jU2p25aWL}
-  - {name: '🇲🇩 Moldova 1 t.me/SurfShark_ALA_94', server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇳🇱 Netherlands 1 t.me/SurfShark_ALA_95', server: 91.232.105.253, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: '🇳🇬 Nigeria 1 t.me/SurfShark_ALA_96', server: 102.129.144.142, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QzTsOpqsdj29bWqIqWR6}
-  - {name: '🇳🇴 Norway 1 t.me/SurfShark_ALA_97', server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇳🇴 Norway 2 t.me/SurfShark_ALA_98', server: 46.29.219.246, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇳🇴 Norway 3 t.me/SurfShark_ALA_99', server: 46.29.219.246, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇳🇴 Norway 4 t.me/SurfShark_ALA_100', server: 46.29.218.170, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇳🇴 Norway 5 t.me/SurfShark_ALA_101', server: 46.29.218.146, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇳🇴 Norway 6 t.me/SurfShark_ALA_102', server: 46.29.218.6, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇵🇱 Poland 1 t.me/SurfShark_ALA  _103', server: 5.188.108.155, port: 889, type: ss, cipher: chacha20-ietf-poly1305, password: KhS1x8JT7p58RIp7gz}
-  - {name: '🇵🇱 Poland 2 t.me/SurfShark_ALA  _104', server: 5.188.108.155, port: 890, type: ss, cipher: chacha20-ietf-poly1305, password: KhS1x8JT7p58RIp7gz}
-  - {name: '🇵🇹 Portugal 1 t.me/SurfShark_ALA_105', server: 185.90.57.152, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qSnstpCypymLvPeyLRqf}
-  - {name: '🇷🇴 Romania 1 t.me/SurfShark_ALA  _106', server: 86.105.25.162, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: gKDDFZyBmBH5Ru46xBAK}
-  - {name: '🇷🇺 Russia 1 t.me/SurfShark_ALA_107', server: 92.38.139.95, port: 50005, type: ss, cipher: aes-256-cfb, password: 7620447880}
-  - {name: '🇷🇺 Russia 2 t.me/SurfShark_ALA_108', server: 82.202.220.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Kw6hMXQ2Z7ey7mf2Uqyr}
-  - {name: '🇷🇺 Russia 3 t.me/SurfShark_ALA_109', server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇸🇬 Singapore 1 t.me/SurfShark_ALA_110', server: 81.90.188.167, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
-  - {name: '🇸🇬 Singapore 2 t.me/SurfShark_ALA_111', server: 81.90.188.167, port: 827, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
-  - {name: '🇸🇬 Singapore 3 t.me/SurfShark_ALA_112', server: 84.17.38.144, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: gTYdduTTEBBdVZ4LcBnT}
-  - {name: '🇸🇮 Slovenia 1 t.me/SurfShark_ALA_113', server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇸🇰 Slovakia  1 t.me/SurfShark_ALA_114', server: 188.123.123.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇿🇦 SouthAfrica 1 t.me/SurfShark_ALA_115', server: 102.165.20.38, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: VLGVpK9npKaFqBLHcnu9}
-  - {name: '🇪🇸 Spain 1 t.me/SurfShark_ALA_116', server: 172.107.233.234, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: '🇪🇸 Spain 2 t.me/SurfShark_ALA_117', server: 172.107.233.234, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: '🇸🇪 Sweden 1 t.me/SurfShark_ALA _118', server: 196.196.156.106, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇸🇪 Sweden 2 t.me/SurfShark_ALA _119', server: 196.196.156.106, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇸🇪 Sweden 3 t.me/SurfShark_ALA _120', server: 196.196.156.106, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇸🇪 Sweden 4 t.me/SurfShark_ALA _121', server: 196.196.156.106, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇸🇪 Sweden 5 t.me/SurfShark_ALA _122', server: 196.196.156.106, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇸🇪 Sweden 6 t.me/SurfShark_ALA _123', server: 196.196.156.106, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇸🇪 Sweden 7 t.me/SurfShark_ALA _124', server: 196.196.156.106, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇸🇪 Sweden 8 t.me/SurfShark_ALA _125', server: 196.196.156.106, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇸🇪 Sweden 9 t.me/SurfShark_ALA _126', server: 196.196.156.106, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇨🇭 Switzerland 1 t.me/SurfShark_ALA _127', server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: '🇹🇼 Taiwan 1 t.me/SurfShark_ALA_128', server: 59.125.11.158, port: 8158, type: ss, cipher: rc4-md5, password: passinfo123}
-  - {name: '🇹🇷 Turkey 1 t.me/SurfShark_ALA_129', server: 185.17.113.234, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇹🇷 Turkey 2 t.me/SurfShark_ALA_130', server: 185.17.113.234, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇹🇷 Turkey 3 t.me/SurfShark_ALA_131', server: 185.17.113.234, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇹🇷 Turkey 4 t.me/SurfShark_ALA_132', server: 185.17.113.234, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇹🇷 Turkey 5 t.me/SurfShark_ALA_133', server: 185.17.113.234, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇹🇷 Turkey 6 t.me/SurfShark_ALA_134', server: 185.17.113.234, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇹🇷 Turkey 7 t.me/SurfShark_ALA_135', server: 185.17.113.234, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇹🇷 Turkey 8 t.me/SurfShark_ALA_136', server: 185.17.113.234, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇺🇦 Ukraine  1 t.me/SurfShark_ALA_137', server: 37.19.218.197, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Mx6DztQqZb7j34FdWjER}
-  - {name: '🇦🇪 UAE 1 t.me/SurfShark_ALA_138', server: 217.138.193.6, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇦🇪 UAE 2 t.me/SurfShark_ALA_139', server: 217.138.193.6, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇦🇪 UAE 3 t.me/SurfShark_ALA_140', server: 217.138.193.6, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇦🇪 UAE 4 t.me/SurfShark_ALA_141', server: 217.138.193.6, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇦🇪 UAE 5 t.me/SurfShark_ALA_142', server: 217.138.193.6, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇦🇪 UAE 6 t.me/SurfShark_ALA_143', server: 217.138.193.6, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇬🇧 UK.London 1 t.me/SurfShark_ALA_144', server: 172.99.190.153, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: '🇬🇧 UK.London 2 t.me/SurfShark_ALA_145', server: 172.99.190.235, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇬🇧 UK.London 3 t.me/SurfShark_ALA_146', server: 172.99.190.139, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇬🇧 UK.London 4 t.me/SurfShark_ALA_147', server: 172.99.190.246, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: '🇬🇧 UK.London 5 t.me/SurfShark_ALA_148', server: 172.99.190.235, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: '🇬🇧 UK.London 6 t.me/SurfShark_ALA_149', server: 172.99.190.139, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇬🇧 UK.London 7 t.me/SurfShark_ALA_150', server: 172.99.190.246, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: '🇺🇸 USA.NewYorkCity 1 t.me/SurfShark_ALA_151', server: 142.202.48.114, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: '🇺🇸 USA.NewYorkCity 2 t.me/SurfShark_ALA_152', server: 142.202.48.114, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: '🇺🇸 USA.NewYorkCity 3 t.me/SurfShark_ALA_153', server: 142.202.48.114, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: '🇺🇸 USA.NewJersey 1 t.me/SurfShark_ALA_154', server: 23.226.131.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: ckX2YfENbjCtVzVJphFP}
-  - {name: '🇺🇸 USA.Denver 1 t.me/SurfShark_ALA_155', server: 70.39.71.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV}
-  - {name: '🇺🇸 USA.Georgia.Atlanta 1 t.me/SurfShark_ALA_156', server: 104.223.91.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QKyLzp5JUG6XEGy2wbEE}
-  - {name: '🇺🇸 USA.Seattle 1 t.me/SurfShark_ALA_157', server: 104.140.21.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 4kUSnsELPgwDFqkrnPqL}
-  - {name: '🇺🇸 USA.Texas.Dallas 1 t.me/SurfShark_ALA_158', server: 170.130.31.114, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 4W2SJmdKUMJjjkVfRDdh}
-  - {name: '🇺🇸 USA.Phoenix 1 t.me/SurfShark_ALA_159', server: 170.130.15.34, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q8gsJVLZ5eYXU3uhmnbH}
-  - {name: '🇺🇸 USA.LosAngeles 1 t.me/SurfShark_ALA_160', server: 66.55.92.101, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW}
-  - {name: '🇺🇸 USA.LosAngeles 2 t.me/SurfShark_ALA_161', server: 66.55.92.75, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 6g8n89NARNcuTH2XvUtZ}
-  - {name: '🇺🇸 USA.LosAngeles 3 t.me/SurfShark_ALA_162', server: 77.247.126.153, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: '🇺🇸 USA.LosAngeles 4 t.me/SurfShark_ALA_163', server: 169.62.109.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 74cf7gsXJgd9Z4MAW42L}
+  - {name: '🇪🇬 Egypt 1 t.me/SurfShark_ALA_10', server: 188.214.122.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QhtEqbEtn74KsTUM4MUg}
+  - {name: '🇪🇬 Egypt 2 t.me/SurfShark_ALA_11', server: 188.214.122.138, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: QhtEqbEtn74KsTUM4MUg}
+  - {name: '🇦🇷 Argentina 1 t.me/SurfShark_ALA_12', server: 131.255.4.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: UHu5NzfXjuur52h9}
+  - {name: '🇦🇺 Australia 1 t.me/SurfShark_ALA_13', server: 46.102.153.106, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy}
+  - {name: '🇦🇺 Australia 1 t.me/SurfShark_ALA_14', server: 66.203.112.53, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇦🇹 Austria 1 t.me/SurfShark_ALA_15', server: 151.236.30.184, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇦🇿 Azerbaijan 1 t.me/SurfShark_ALA _16', server: 94.20.154.38, port: 50000, type: ss, cipher: aes-256-cfb, password: 9344665077}
+  - {name: '🇦🇿 Azerbaijan 2 t.me/SurfShark_ALA _17', server: 94.20.154.26, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇦🇿 Azerbaijan 3 t.me/SurfShark_ALA _18', server: 94.20.154.38, port: 50006, type: ss, cipher: aes-256-cfb, password: 9344665077}
+  - {name: '🇧🇪 Belgium 1 t.me/SurfShark_ALA _19', server: 193.9.114.34, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇧🇪 Belgium 2 t.me/SurfShark_ALA _20', server: 77.243.191.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs}
+  - {name: '🇧🇪 Belgium 3 t.me/SurfShark_ALA _21', server: 193.9.114.34, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇧🇪 Belgium 4 t.me/SurfShark_ALA _22', server: 193.9.114.34, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇧🇪 Belgium 5 t.me/SurfShark_ALA _23', server: 193.9.114.34, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇧🇪 Belgium 6 t.me/SurfShark_ALA _24', server: 193.9.114.34, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇧🇪 Belgium 7 t.me/SurfShark_ALA _25', server: 193.9.114.34, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇧🇦 Bosnia-and-Herzegovina 1 t.me/SurfShark_ALA_26', server: 185.99.3.108, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: '🇧🇦 Bosnia-and-Herzegovina 2 t.me/SurfShark_ALA_27', server: 185.99.3.108, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
+  - {name: '🇧🇦 Bosnia-and-Herzegovina 3 t.me/SurfShark_ALA_28', server: 185.99.3.7, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: '🇧🇦 Bosnia-and-Herzegovina 4 t.me/SurfShark_ALA_29', server: 185.99.3.7, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: '🇧🇦 Bosnia-and-Herzegovina 5 t.me/SurfShark_ALA_30', server: 185.99.3.108, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: '🇧🇦 Bosnia-and-Herzegovina 6 t.me/SurfShark_ALA_31', server: 185.99.3.108, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: '🇧🇦 Bosnia-and-Herzegovina 7 t.me/SurfShark_ALA_32', server: 185.99.3.108, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: '🇧🇦 Bosnia-and-Herzegovina 8 t.me/SurfShark_ALA_33', server: 185.99.3.108, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
+  - {name: '🇧🇦 Bosnia-and-Herzegovina 9 t.me/SurfShark_ALA_34', server: 185.99.3.108, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: '🇧🇦 Bosnia-and-Herzegovina 10 t.me/SurfShark_ALA_35', server: 185.99.3.108, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: '🇧🇦 Bosnia-and-Herzegovina 11 t.me/SurfShark_ALA_36', server: 185.99.3.108, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: '🇧🇷 Brazil  1 t.me/SurfShark_ALA_37', server: 177.54.152.89, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2GWsqE7Gr3nRMuuQZfFa}
+  - {name: '🇧🇬 Bulgaria 1 t.me/SurfShark_ALA_38', server: 194.68.225.104, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇨🇦 Canada 1 t.me/SurfShark_ALA_39', server: 134.195.196.81, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: '🇨🇦 Canada 2 t.me/SurfShark_ALA_40', server: 134.195.196.81, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: '🇨🇦 Canada 3 t.me/SurfShark_ALA_41', server: 134.195.196.133, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: '🇨🇦 Canada 4 t.me/SurfShark_ALA_42', server: 134.195.196.165, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: '🇨🇦 Canada 5 t.me/SurfShark_ALA_43', server: 134.195.196.165, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: '🇨🇦 Canada 6 t.me/SurfShark_ALA_44', server: 134.195.196.165, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: '🇨🇦 Canada 7 t.me/SurfShark_ALA_45', server: 134.195.198.250, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: '🇨🇦 Canada 8 t.me/SurfShark_ALA_46', server: 217.138.200.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: EGTHtnGhcnggx5yBYSqS}
+  - {name: '🇨🇦 Canada 9 t.me/SurfShark_ALA_47', server: 192.71.227.64, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇨🇦 Canada 10 t.me/SurfShark_ALA_48', server: 71.19.249.109, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QBLw4rLXQ6ebxpWwSKDL}
+  - {name: '🇨🇿 CzechRepublic 1 t.me/SurfShark_ALA_49', server: 193.235.207.28, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇩🇰 Denmark 1 t.me/SurfShark_ALA _50', server: 5.183.101.229, port: 50003, type: ss, cipher: aes-256-cfb, password: 8460400130}
+  - {name: '🇩🇰 Denmark 2 t.me/SurfShark_ALA _51', server: 142.202.48.77, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: '🇫🇮 Finland 1 t.me/SurfShark_ALA_52', server: 37.143.129.186, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇫🇷 France 1 t.me/SurfShark_ALA_53', server: 92.243.24.236, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: LE6Ee6PELhVu}
+  - {name: '🇫🇷 France 2 t.me/SurfShark_ALA_54', server: 46.226.111.148, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: vPwCvtbOUMkb}
+  - {name: '🇫🇷 France 3 t.me/SurfShark_ALA_55', server: 95.142.175.14, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: tkAx1ehPPkMN}
+  - {name: '🇫🇷 France 4 t.me/SurfShark_ALA_56', server: 95.142.161.161, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: X7EBlPe92tq6}
+  - {name: '🇫🇷 France 5 t.me/SurfShark_ALA_57', server: 92.243.24.68, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: bIS3QQFwFIm1}
+  - {name: '🇫🇷 France 6 t.me/SurfShark_ALA_58', server: 135.125.248.215, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇫🇷 France 7 t.me/SurfShark_ALA_59', server: 135.125.248.215, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇫🇷 France 8 t.me/SurfShark_ALA_60', server: 135.125.248.215, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇫🇷 France 9 t.me/SurfShark_ALA_61', server: 135.125.248.215, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇩🇪 Germany 1 t.me/SurfShark_ALA_62', server: 167.86.82.191, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1z7k5IMlPsvk}
+  - {name: '🇩🇪 Germany 2 t.me/SurfShark_ALA_63', server: 178.18.255.190, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇩🇪 Germany 3 t.me/SurfShark_ALA_64', server: 213.136.80.36, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇩🇪 Germany 4 t.me/SurfShark_ALA_65', server: 135.125.236.229, port: 50003, type: ss, cipher: aes-256-cfb, password: 8460400130}
+  - {name: '🇩🇪 Germany 5 t.me/SurfShark_ALA_66', server: 146.0.36.23, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: '🇩🇪 Germany 6 t.me/SurfShark_ALA_67', server: 37.1.192.129, port: 55605, type: ss, cipher: aes-256-cfb, password: ruEvBSp}
+  - {name: '🇩🇪 Germany 7 t.me/SurfShark_ALA_68', server: 146.0.36.44, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: '🇩🇪 Germany 8 t.me/SurfShark_ALA_69', server: 146.0.36.44, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: '🇩🇪 Germany 9 t.me/SurfShark_ALA_70', server: 146.0.36.44, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: '🇬🇷 Greece 1 t.me/SurfShark_ALA_71', server: 185.51.134.210, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: mTrN2fMYeWJwrkWpTnL2}
+  - {name: '🇭🇰 Hong Kong 1 t.me/SurfShark_ALA _72', server: 118.107.244.110, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: '🇭🇰 Hong Kong 2 t.me/SurfShark_ALA _73', server: 118.107.244.110, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: '🇭🇺 Hungary 1 t.me/SurfShark_ALA  _74', server: 194.71.130.160, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇮🇳 India 1 t.me/SurfShark_ALA_75', server: 169.38.107.52, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 7D4GYNDaFy4eebe47tvF}
+  - {name: '🇮🇳 India 2 t.me/SurfShark_ALA_76', server: 172.105.63.119, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: '🇮🇳India#🇮🇳 India 3 t.me/SurfShark_ALA_77', server: 192.46.212.33, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: '🇮🇳India#🇮🇳 India 4 t.me/SurfShark_ALA_78', server: 192.46.212.33, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: '🇮🇳India#🇮🇳 India 5 t.me/SurfShark_ALA_79', server: 192.46.212.33, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: '🇮🇳India#🇮🇳 India 6 t.me/SurfShark_ALA_80', server: 192.46.210.73, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: '🇮🇳India#🇮🇳 India 7 t.me/SurfShark_ALA_81', server: 192.46.210.73, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '🇮🇳India#🇮🇳 India 8 t.me/SurfShark_ALA_82', server: 192.46.210.73, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '🇮🇪 Ireland 1 t.me/SurfShark_ALA_83', server: 3.249.52.148, port: 50004, type: ss, cipher: aes-256-cfb, password: 4415934295}
+  - {name: '🇮🇪 Ireland 2 t.me/SurfShark_ALA_84', server: 217.138.222.138, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: AsLgDbA45KTMXumtzWhf}
+  - {name: '🇮🇱 Israel 1 t.me/SurfShark_ALA_85', server: 63.250.61.77, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇮🇱 Israel 2 t.me/SurfShark_ALA_86', server: 212.199.61.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: scDj68fv6xkMg2np9RgW}
+  - {name: '🇮🇹 Italy.Milan 1 t.me/SurfShark_ALA_87', server: 95.174.23.218, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇮🇹 Italy.Milan 2 t.me/SurfShark_ALA_88', server: 95.141.37.111, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇮🇹 Italy.Milan 3 t.me/SurfShark_ALA_89', server: 95.141.37.111, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇮🇹 Italy.Milan 4 t.me/SurfShark_ALA_90', server: 95.141.37.111, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇮🇹 Italy.Milan 5 t.me/SurfShark_ALA_91', server: 95.141.37.111, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇯🇵 Japan 1 t.me/SurfShark_ALA _92', server: 45.66.134.210, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇯🇵 Japan 2 t.me/SurfShark_ALA _93', server: 5.181.5.136, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇯🇵 Japan 1 t.me/SurfShark_ALA _94', server: 45.66.134.210, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇯🇵 Japan 1 t.me/SurfShark_ALA _95', server: 45.66.134.210, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇯🇵 Japan 1 t.me/SurfShark_ALA _96', server: 45.66.134.210, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇯🇵 Japan 2 t.me/SurfShark_ALA _97', server: 5.181.5.136, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇯🇵 Japan 2 t.me/SurfShark_ALA _98', server: 5.181.5.136, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇯🇵 Japan 2 t.me/SurfShark_ALA _99', server: 5.181.5.136, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇰🇷 South Korea 1 t.me/SurfShark_ALA_100', server: 158.247.200.56, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '🇰🇷 South Korea 2 t.me/SurfShark_ALA_101', server: 158.247.206.19, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: '🇰🇷 South Korea 3 t.me/SurfShark_ALA_102', server: 141.164.57.134, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: '🇰🇷 South Korea 4 t.me/SurfShark_ALA_103', server: 158.247.200.56, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: '🇰🇷 South Korea 5 t.me/SurfShark_ALA_104', server: 141.164.57.134, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '🇰🇷 South Korea 6 t.me/SurfShark_ALA_105', server: 141.164.53.152, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: '🇱🇺 Luxembourg 1 t.me/SurfShark_ALA_106', server: 92.223.105.40, port: 50006, type: ss, cipher: aes-256-cfb, password: 9344665077}
+  - {name: '🇲🇾 Malaysia 1 t.me/SurfShark_ALA_107', server: 223.25.246.4, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: w4GUD28Bw9uCMdbc2pqA}
+  - {name: '🇲🇾 Malaysia 2 t.me/SurfShark_ALA_108', server: 223.25.246.4, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: w4GUD28Bw9uCMdbc2pqA}
+  - {name: '🇲🇽 Mexico 1 t.me/SurfShark_ALA_109', server: 169.57.35.97, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 3Q5yYEGGMu8jU2p25aWL}
+  - {name: '🇲🇩 Moldova 1 t.me/SurfShark_ALA_110', server: 192.121.87.89, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇳🇱 Netherlands 1 t.me/SurfShark_ALA_111', server: 91.232.105.253, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: '🇳🇬 Nigeria 1 t.me/SurfShark_ALA_112', server: 102.129.144.142, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QzTsOpqsdj29bWqIqWR6}
+  - {name: '🇳🇴 Norway 1 t.me/SurfShark_ALA_113', server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: '🇳🇴 Norway 2 t.me/SurfShark_ALA_114', server: 46.29.219.246, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '🇳🇴 Norway 3 t.me/SurfShark_ALA_115', server: 46.29.219.246, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '🇳🇴 Norway 4 t.me/SurfShark_ALA_116', server: 46.29.218.170, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '🇳🇴 Norway 5 t.me/SurfShark_ALA_117', server: 46.29.218.146, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: '🇳🇴 Norway 6 t.me/SurfShark_ALA_118', server: 46.29.218.6, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '🇵🇱 Poland 1 t.me/SurfShark_ALA  _119', server: 5.188.108.155, port: 889, type: ss, cipher: chacha20-ietf-poly1305, password: KhS1x8JT7p58RIp7gz}
+  - {name: '🇵🇱 Poland 2 t.me/SurfShark_ALA  _120', server: 5.188.108.155, port: 890, type: ss, cipher: chacha20-ietf-poly1305, password: KhS1x8JT7p58RIp7gz}
+  - {name: '🇵🇹 Portugal 1 t.me/SurfShark_ALA_121', server: 185.90.57.152, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qSnstpCypymLvPeyLRqf}
+  - {name: '🇷🇴 Romania 1 t.me/SurfShark_ALA  _122', server: 86.105.25.162, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: gKDDFZyBmBH5Ru46xBAK}
+  - {name: '🇷🇺 Russia 1 t.me/SurfShark_ALA_123', server: 92.38.139.95, port: 50005, type: ss, cipher: aes-256-cfb, password: 7620447880}
+  - {name: '🇷🇺 Russia 2 t.me/SurfShark_ALA_124', server: 82.202.220.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Kw6hMXQ2Z7ey7mf2Uqyr}
+  - {name: '🇷🇺 Russia 3 t.me/SurfShark_ALA_125', server: 83.217.9.76, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇸🇬 Singapore 1 t.me/SurfShark_ALA_126', server: 81.90.188.167, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
+  - {name: '🇸🇬 Singapore 2 t.me/SurfShark_ALA_127', server: 81.90.188.167, port: 827, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
+  - {name: '🇸🇬 Singapore 3 t.me/SurfShark_ALA_128', server: 84.17.38.144, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: gTYdduTTEBBdVZ4LcBnT}
+  - {name: '🇸🇮 Slovenia 1 t.me/SurfShark_ALA_129', server: 192.71.244.49, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇸🇰 Slovakia  1 t.me/SurfShark_ALA_130', server: 188.123.123.133, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇿🇦 SouthAfrica 1 t.me/SurfShark_ALA_131', server: 102.165.20.38, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: VLGVpK9npKaFqBLHcnu9}
+  - {name: '🇪🇸 Spain 1 t.me/SurfShark_ALA_132', server: 45.152.183.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw}
+  - {name: '🇪🇸 Spain 2 t.me/SurfShark_ALA_133', server: 45.152.183.242, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw}
+  - {name: '🇸🇪 Sweden 1 t.me/SurfShark_ALA _134', server: 196.196.156.106, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇸🇪 Sweden 2 t.me/SurfShark_ALA _135', server: 196.196.156.106, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇸🇪 Sweden 3 t.me/SurfShark_ALA _136', server: 196.196.156.106, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇸🇪 Sweden 4 t.me/SurfShark_ALA _137', server: 196.196.156.106, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇸🇪 Sweden 5 t.me/SurfShark_ALA _138', server: 196.196.156.106, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇸🇪 Sweden 6 t.me/SurfShark_ALA _139', server: 196.196.156.106, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇸🇪 Sweden 7 t.me/SurfShark_ALA _140', server: 196.196.156.106, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇸🇪 Sweden 8 t.me/SurfShark_ALA _141', server: 196.196.156.106, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇸🇪 Sweden 9 t.me/SurfShark_ALA _142', server: 196.196.156.106, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇨🇭 Switzerland 1 t.me/SurfShark_ALA _143', server: 212.237.210.158, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: '🇹🇼 Taiwan 1 t.me/SurfShark_ALA_144', server: 59.125.11.158, port: 8158, type: ss, cipher: rc4-md5, password: passinfo123}
+  - {name: '🇹🇷 Turkey 1 t.me/SurfShark_ALA_145', server: 185.17.113.234, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇹🇷 Turkey 2 t.me/SurfShark_ALA_146', server: 185.17.113.234, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇹🇷 Turkey 3 t.me/SurfShark_ALA_147', server: 185.17.113.234, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇹🇷 Turkey 4 t.me/SurfShark_ALA_148', server: 185.17.113.234, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇹🇷 Turkey 5 t.me/SurfShark_ALA_149', server: 185.17.113.234, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇹🇷 Turkey 6 t.me/SurfShark_ALA_150', server: 185.17.113.234, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇹🇷 Turkey 7 t.me/SurfShark_ALA_151', server: 185.17.113.234, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇹🇷 Turkey 8 t.me/SurfShark_ALA_152', server: 185.17.113.234, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇺🇦 Ukraine  1 t.me/SurfShark_ALA_153', server: 37.19.218.197, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Mx6DztQqZb7j34FdWjER}
+  - {name: '🇦🇪 UAE 1 t.me/SurfShark_ALA_154', server: 217.138.193.6, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇦🇪 UAE 2 t.me/SurfShark_ALA_155', server: 217.138.193.6, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇦🇪 UAE 3 t.me/SurfShark_ALA_156', server: 217.138.193.6, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇦🇪 UAE 4 t.me/SurfShark_ALA_157', server: 217.138.193.6, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇦🇪 UAE 5 t.me/SurfShark_ALA_158', server: 217.138.193.6, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇦🇪 UAE 6 t.me/SurfShark_ALA_159', server: 217.138.193.6, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇬🇧 UK.London 1 t.me/SurfShark_ALA_160', server: 172.99.190.167, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: '🇬🇧 UK.London 2 t.me/SurfShark_ALA_161', server: 172.99.190.139, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: '🇬🇧 UK.London 3 t.me/SurfShark_ALA_162', server: 172.99.190.139, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '🇬🇧 UK.London 4 t.me/SurfShark_ALA_163', server: 172.99.190.246, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: '🇬🇧 UK.London 5 t.me/SurfShark_ALA_164', server: 172.99.190.167, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: '🇬🇧 UK.London 6 t.me/SurfShark_ALA_165', server: 172.99.190.139, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '🇬🇧 UK.London 7 t.me/SurfShark_ALA_166', server: 172.99.190.246, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: '🇺🇸 USA.NewYorkCity 1 t.me/SurfShark_ALA_167', server: 142.202.48.114, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: '🇺🇸 USA.NewYorkCity 2 t.me/SurfShark_ALA_168', server: 142.202.48.114, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: '🇺🇸 USA.NewYorkCity 3 t.me/SurfShark_ALA_169', server: 142.202.48.114, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: '🇺🇸 USA.NewJersey 1 t.me/SurfShark_ALA_170', server: 23.226.131.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: ckX2YfENbjCtVzVJphFP}
+  - {name: '🇺🇸 USA.Denver 1 t.me/SurfShark_ALA_171', server: 70.39.71.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV}
+  - {name: '🇺🇸 USA.Georgia.Atlanta 1 t.me/SurfShark_ALA_172', server: 104.223.91.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QKyLzp5JUG6XEGy2wbEE}
+  - {name: '🇺🇸 USA.Seattle 1 t.me/SurfShark_ALA_173', server: 104.140.21.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 4kUSnsELPgwDFqkrnPqL}
+  - {name: '🇺🇸 USA.Texas.Dallas 1 t.me/SurfShark_ALA_174', server: 170.130.31.114, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 4W2SJmdKUMJjjkVfRDdh}
+  - {name: '🇺🇸 USA.Phoenix 1 t.me/SurfShark_ALA_175', server: 170.130.15.34, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q8gsJVLZ5eYXU3uhmnbH}
+  - {name: '🇺🇸 USA.LosAngeles 1 t.me/SurfShark_ALA_176', server: 66.55.92.101, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW}
+  - {name: '🇺🇸 USA.LosAngeles 2 t.me/SurfShark_ALA_177', server: 66.55.92.75, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 6g8n89NARNcuTH2XvUtZ}
+  - {name: '🇺🇸 USA.LosAngeles 3 t.me/SurfShark_ALA_178', server: 77.247.126.153, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: '🇺🇸 USA.LosAngeles 4 t.me/SurfShark_ALA_179', server: 169.62.109.140, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 74cf7gsXJgd9Z4MAW42L}
   
 
 proxy-groups:
@@ -182,7 +198,7 @@ proxy-groups:
   - name: 📛 YouTube without ads
     type: url-test
     url: http://google.com
-    interval: 300
+    interval: 600
     proxies:
       - 📛 YouTube without ads 1 t.me/SurfShark_ALA _1
       - 📛 YouTube without ads 2 t.me/SurfShark_ALA _2
@@ -198,320 +214,352 @@ proxy-groups:
   - name: 🔰 Manual
     type: select
     proxies:
-      - 🇦🇷 Argentina 1 t.me/SurfShark_ALA_10
-      - 🇦🇹 Austria 1 t.me/SurfShark_ALA_11
-      - 🇦🇿 Azerbaijan 1 t.me/SurfShark_ALA _12
-      - 🇦🇿 Azerbaijan 2 t.me/SurfShark_ALA _13
-      - 🇦🇿 Azerbaijan 3 t.me/SurfShark_ALA _14
-      - 🇧🇪 Belgium 1 t.me/SurfShark_ALA _15
-      - 🇧🇪 Belgium 2 t.me/SurfShark_ALA _16
-      - 🇧🇪 Belgium 3 t.me/SurfShark_ALA _17
-      - 🇧🇪 Belgium 4 t.me/SurfShark_ALA _18
-      - 🇧🇪 Belgium 5 t.me/SurfShark_ALA _19
-      - 🇧🇪 Belgium 6 t.me/SurfShark_ALA _20
-      - 🇧🇪 Belgium 7 t.me/SurfShark_ALA _21
-      - 🇧🇦 Bosnia-and-Herzegovina 1 t.me/SurfShark_ALA_22
-      - 🇧🇷 Brazil  1 t.me/SurfShark_ALA_23
-      - 🇨🇦 Canada 1 t.me/SurfShark_ALA_24
-      - 🇨🇦 Canada 2 t.me/SurfShark_ALA_25
-      - 🇨🇦 Canada 3 t.me/SurfShark_ALA_26
-      - 🇨🇦 Canada 4 t.me/SurfShark_ALA_27
-      - 🇨🇦 Canada 5 t.me/SurfShark_ALA_28
-      - 🇨🇦 Canada 6 t.me/SurfShark_ALA_29
-      - 🇨🇦 Canada 7 t.me/SurfShark_ALA_30
-      - 🇨🇦 Canada 8 t.me/SurfShark_ALA_31
-      - 🇨🇦 Canada 9 t.me/SurfShark_ALA_32
-      - 🇨🇦 Canada 10 t.me/SurfShark_ALA_33
-      - 🇨🇿 CzechRepublic 1 t.me/SurfShark_ALA_34
-      - 🇩🇰 Denmark 1 t.me/SurfShark_ALA _35
-      - 🇩🇰 Denmark 2 t.me/SurfShark_ALA _36
-      - 🇫🇮 Finland 1 t.me/SurfShark_ALA_37
-      - 🇫🇷 France 1 t.me/SurfShark_ALA_38
-      - 🇫🇷 France 2 t.me/SurfShark_ALA_39
-      - 🇫🇷 France 3 t.me/SurfShark_ALA_40
-      - 🇫🇷 France 4 t.me/SurfShark_ALA_41
-      - 🇫🇷 France 5 t.me/SurfShark_ALA_42
-      - 🇫🇷 France 6 t.me/SurfShark_ALA_43
-      - 🇫🇷 France 7 t.me/SurfShark_ALA_44
-      - 🇫🇷 France 8 t.me/SurfShark_ALA_45
-      - 🇫🇷 France 9 t.me/SurfShark_ALA_46
-      - 🇩🇪 Germany 1 t.me/SurfShark_ALA_47
-      - 🇩🇪 Germany 2 t.me/SurfShark_ALA_48
-      - 🇩🇪 Germany 3 t.me/SurfShark_ALA_49
-      - 🇩🇪 Germany 4 t.me/SurfShark_ALA_50
-      - 🇩🇪 Germany 5 t.me/SurfShark_ALA_51
-      - 🇩🇪 Germany 6 t.me/SurfShark_ALA_52
-      - 🇩🇪 Germany 7 t.me/SurfShark_ALA_53
-      - 🇩🇪 Germany 8 t.me/SurfShark_ALA_54
-      - 🇩🇪 Germany 9 t.me/SurfShark_ALA_55
-      - 🇬🇷 Greece 1 t.me/SurfShark_ALA_56
-      - 🇭🇰 Hong Kong 1 t.me/SurfShark_ALA _57
-      - 🇭🇰 Hong Kong 2 t.me/SurfShark_ALA _58
-      - 🇭🇺 Hungary 1 t.me/SurfShark_ALA  _59
-      - 🇮🇳 India 1 t.me/SurfShark_ALA_60
-      - 🇮🇳 India 2 t.me/SurfShark_ALA_61
-      - 🇮🇳India#🇮🇳 India 3 t.me/SurfShark_ALA_62
-      - 🇮🇳India#🇮🇳 India 4 t.me/SurfShark_ALA_63
-      - 🇮🇳India#🇮🇳 India 5 t.me/SurfShark_ALA_64
-      - 🇮🇳India#🇮🇳 India 6 t.me/SurfShark_ALA_65
-      - 🇮🇳India#🇮🇳 India 7 t.me/SurfShark_ALA_66
-      - 🇮🇳India#🇮🇳 India 8 t.me/SurfShark_ALA_67
-      - 🇮🇪 Ireland 1 t.me/SurfShark_ALA_68
-      - 🇮🇪 Ireland 2 t.me/SurfShark_ALA_69
-      - 🇮🇱 Israel 1 t.me/SurfShark_ALA_70
-      - 🇮🇱 Israel 2 t.me/SurfShark_ALA_71
-      - 🇮🇹 Italy.Milan 1 t.me/SurfShark_ALA_72
-      - 🇮🇹 Italy.Milan 2 t.me/SurfShark_ALA_73
-      - 🇮🇹 Italy.Milan 3 t.me/SurfShark_ALA_74
-      - 🇮🇹 Italy.Milan 4 t.me/SurfShark_ALA_75
-      - 🇮🇹 Italy.Milan 5 t.me/SurfShark_ALA_76
-      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _77
-      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _78
-      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _79
-      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _80
-      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _81
-      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _82
-      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _83
-      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _84
-      - 🇰🇷 South Korea 1 t.me/SurfShark_ALA_85
-      - 🇰🇷 South Korea 2 t.me/SurfShark_ALA_86
-      - 🇰🇷 South Korea 3 t.me/SurfShark_ALA_87
-      - 🇰🇷 South Korea 4 t.me/SurfShark_ALA_88
-      - 🇰🇷 South Korea 5 t.me/SurfShark_ALA_89
-      - 🇰🇷 South Korea 6 t.me/SurfShark_ALA_90
-      - 🇱🇺 Luxembourg 1 t.me/SurfShark_ALA_91
-      - 🇲🇾 Malaysia 1 t.me/SurfShark_ALA_92
-      - 🇲🇽 Mexico 1 t.me/SurfShark_ALA_93
-      - 🇲🇩 Moldova 1 t.me/SurfShark_ALA_94
-      - 🇳🇱 Netherlands 1 t.me/SurfShark_ALA_95
-      - 🇳🇬 Nigeria 1 t.me/SurfShark_ALA_96
-      - 🇳🇴 Norway 1 t.me/SurfShark_ALA_97
-      - 🇳🇴 Norway 2 t.me/SurfShark_ALA_98
-      - 🇳🇴 Norway 3 t.me/SurfShark_ALA_99
-      - 🇳🇴 Norway 4 t.me/SurfShark_ALA_100
-      - 🇳🇴 Norway 5 t.me/SurfShark_ALA_101
-      - 🇳🇴 Norway 6 t.me/SurfShark_ALA_102
-      - 🇵🇱 Poland 1 t.me/SurfShark_ALA  _103
-      - 🇵🇱 Poland 2 t.me/SurfShark_ALA  _104
-      - 🇵🇹 Portugal 1 t.me/SurfShark_ALA_105
-      - 🇷🇴 Romania 1 t.me/SurfShark_ALA  _106
-      - 🇷🇺 Russia 1 t.me/SurfShark_ALA_107
-      - 🇷🇺 Russia 2 t.me/SurfShark_ALA_108
-      - 🇷🇺 Russia 3 t.me/SurfShark_ALA_109
-      - 🇸🇬 Singapore 1 t.me/SurfShark_ALA_110
-      - 🇸🇬 Singapore 2 t.me/SurfShark_ALA_111
-      - 🇸🇬 Singapore 3 t.me/SurfShark_ALA_112
-      - 🇸🇮 Slovenia 1 t.me/SurfShark_ALA_113
-      - 🇸🇰 Slovakia  1 t.me/SurfShark_ALA_114
-      - 🇿🇦 SouthAfrica 1 t.me/SurfShark_ALA_115
-      - 🇪🇸 Spain 1 t.me/SurfShark_ALA_116
-      - 🇪🇸 Spain 2 t.me/SurfShark_ALA_117
-      - 🇸🇪 Sweden 1 t.me/SurfShark_ALA _118
-      - 🇸🇪 Sweden 2 t.me/SurfShark_ALA _119
-      - 🇸🇪 Sweden 3 t.me/SurfShark_ALA _120
-      - 🇸🇪 Sweden 4 t.me/SurfShark_ALA _121
-      - 🇸🇪 Sweden 5 t.me/SurfShark_ALA _122
-      - 🇸🇪 Sweden 6 t.me/SurfShark_ALA _123
-      - 🇸🇪 Sweden 7 t.me/SurfShark_ALA _124
-      - 🇸🇪 Sweden 8 t.me/SurfShark_ALA _125
-      - 🇸🇪 Sweden 9 t.me/SurfShark_ALA _126
-      - 🇨🇭 Switzerland 1 t.me/SurfShark_ALA _127
-      - 🇹🇼 Taiwan 1 t.me/SurfShark_ALA_128
-      - 🇹🇷 Turkey 1 t.me/SurfShark_ALA_129
-      - 🇹🇷 Turkey 2 t.me/SurfShark_ALA_130
-      - 🇹🇷 Turkey 3 t.me/SurfShark_ALA_131
-      - 🇹🇷 Turkey 4 t.me/SurfShark_ALA_132
-      - 🇹🇷 Turkey 5 t.me/SurfShark_ALA_133
-      - 🇹🇷 Turkey 6 t.me/SurfShark_ALA_134
-      - 🇹🇷 Turkey 7 t.me/SurfShark_ALA_135
-      - 🇹🇷 Turkey 8 t.me/SurfShark_ALA_136
-      - 🇺🇦 Ukraine  1 t.me/SurfShark_ALA_137
-      - 🇦🇪 UAE 1 t.me/SurfShark_ALA_138
-      - 🇦🇪 UAE 2 t.me/SurfShark_ALA_139
-      - 🇦🇪 UAE 3 t.me/SurfShark_ALA_140
-      - 🇦🇪 UAE 4 t.me/SurfShark_ALA_141
-      - 🇦🇪 UAE 5 t.me/SurfShark_ALA_142
-      - 🇦🇪 UAE 6 t.me/SurfShark_ALA_143
-      - 🇬🇧 UK.London 1 t.me/SurfShark_ALA_144
-      - 🇬🇧 UK.London 2 t.me/SurfShark_ALA_145
-      - 🇬🇧 UK.London 3 t.me/SurfShark_ALA_146
-      - 🇬🇧 UK.London 4 t.me/SurfShark_ALA_147
-      - 🇬🇧 UK.London 5 t.me/SurfShark_ALA_148
-      - 🇬🇧 UK.London 6 t.me/SurfShark_ALA_149
-      - 🇬🇧 UK.London 7 t.me/SurfShark_ALA_150
-      - 🇺🇸 USA.NewYorkCity 1 t.me/SurfShark_ALA_151
-      - 🇺🇸 USA.NewYorkCity 2 t.me/SurfShark_ALA_152
-      - 🇺🇸 USA.NewYorkCity 3 t.me/SurfShark_ALA_153
-      - 🇺🇸 USA.NewJersey 1 t.me/SurfShark_ALA_154
-      - 🇺🇸 USA.Denver 1 t.me/SurfShark_ALA_155
-      - 🇺🇸 USA.Georgia.Atlanta 1 t.me/SurfShark_ALA_156
-      - 🇺🇸 USA.Seattle 1 t.me/SurfShark_ALA_157
-      - 🇺🇸 USA.Texas.Dallas 1 t.me/SurfShark_ALA_158
-      - 🇺🇸 USA.Phoenix 1 t.me/SurfShark_ALA_159
-      - 🇺🇸 USA.LosAngeles 1 t.me/SurfShark_ALA_160
-      - 🇺🇸 USA.LosAngeles 2 t.me/SurfShark_ALA_161
-      - 🇺🇸 USA.LosAngeles 3 t.me/SurfShark_ALA_162
-      - 🇺🇸 USA.LosAngeles 4 t.me/SurfShark_ALA_163
+      - 🇪🇬 Egypt 1 t.me/SurfShark_ALA_10
+      - 🇪🇬 Egypt 2 t.me/SurfShark_ALA_11
+      - 🇦🇷 Argentina 1 t.me/SurfShark_ALA_12
+      - 🇦🇺 Australia 1 t.me/SurfShark_ALA_13
+      - 🇦🇺 Australia 1 t.me/SurfShark_ALA_14
+      - 🇦🇹 Austria 1 t.me/SurfShark_ALA_15
+      - 🇦🇿 Azerbaijan 1 t.me/SurfShark_ALA _16
+      - 🇦🇿 Azerbaijan 2 t.me/SurfShark_ALA _17
+      - 🇦🇿 Azerbaijan 3 t.me/SurfShark_ALA _18
+      - 🇧🇪 Belgium 1 t.me/SurfShark_ALA _19
+      - 🇧🇪 Belgium 2 t.me/SurfShark_ALA _20
+      - 🇧🇪 Belgium 3 t.me/SurfShark_ALA _21
+      - 🇧🇪 Belgium 4 t.me/SurfShark_ALA _22
+      - 🇧🇪 Belgium 5 t.me/SurfShark_ALA _23
+      - 🇧🇪 Belgium 6 t.me/SurfShark_ALA _24
+      - 🇧🇪 Belgium 7 t.me/SurfShark_ALA _25
+      - 🇧🇦 Bosnia-and-Herzegovina 1 t.me/SurfShark_ALA_26
+      - 🇧🇦 Bosnia-and-Herzegovina 2 t.me/SurfShark_ALA_27
+      - 🇧🇦 Bosnia-and-Herzegovina 3 t.me/SurfShark_ALA_28
+      - 🇧🇦 Bosnia-and-Herzegovina 4 t.me/SurfShark_ALA_29
+      - 🇧🇦 Bosnia-and-Herzegovina 5 t.me/SurfShark_ALA_30
+      - 🇧🇦 Bosnia-and-Herzegovina 6 t.me/SurfShark_ALA_31
+      - 🇧🇦 Bosnia-and-Herzegovina 7 t.me/SurfShark_ALA_32
+      - 🇧🇦 Bosnia-and-Herzegovina 8 t.me/SurfShark_ALA_33
+      - 🇧🇦 Bosnia-and-Herzegovina 9 t.me/SurfShark_ALA_34
+      - 🇧🇦 Bosnia-and-Herzegovina 10 t.me/SurfShark_ALA_35
+      - 🇧🇦 Bosnia-and-Herzegovina 11 t.me/SurfShark_ALA_36
+      - 🇧🇷 Brazil  1 t.me/SurfShark_ALA_37
+      - 🇧🇬 Bulgaria 1 t.me/SurfShark_ALA_38
+      - 🇨🇦 Canada 1 t.me/SurfShark_ALA_39
+      - 🇨🇦 Canada 2 t.me/SurfShark_ALA_40
+      - 🇨🇦 Canada 3 t.me/SurfShark_ALA_41
+      - 🇨🇦 Canada 4 t.me/SurfShark_ALA_42
+      - 🇨🇦 Canada 5 t.me/SurfShark_ALA_43
+      - 🇨🇦 Canada 6 t.me/SurfShark_ALA_44
+      - 🇨🇦 Canada 7 t.me/SurfShark_ALA_45
+      - 🇨🇦 Canada 8 t.me/SurfShark_ALA_46
+      - 🇨🇦 Canada 9 t.me/SurfShark_ALA_47
+      - 🇨🇦 Canada 10 t.me/SurfShark_ALA_48
+      - 🇨🇿 CzechRepublic 1 t.me/SurfShark_ALA_49
+      - 🇩🇰 Denmark 1 t.me/SurfShark_ALA _50
+      - 🇩🇰 Denmark 2 t.me/SurfShark_ALA _51
+      - 🇫🇮 Finland 1 t.me/SurfShark_ALA_52
+      - 🇫🇷 France 1 t.me/SurfShark_ALA_53
+      - 🇫🇷 France 2 t.me/SurfShark_ALA_54
+      - 🇫🇷 France 3 t.me/SurfShark_ALA_55
+      - 🇫🇷 France 4 t.me/SurfShark_ALA_56
+      - 🇫🇷 France 5 t.me/SurfShark_ALA_57
+      - 🇫🇷 France 6 t.me/SurfShark_ALA_58
+      - 🇫🇷 France 7 t.me/SurfShark_ALA_59
+      - 🇫🇷 France 8 t.me/SurfShark_ALA_60
+      - 🇫🇷 France 9 t.me/SurfShark_ALA_61
+      - 🇩🇪 Germany 1 t.me/SurfShark_ALA_62
+      - 🇩🇪 Germany 2 t.me/SurfShark_ALA_63
+      - 🇩🇪 Germany 3 t.me/SurfShark_ALA_64
+      - 🇩🇪 Germany 4 t.me/SurfShark_ALA_65
+      - 🇩🇪 Germany 5 t.me/SurfShark_ALA_66
+      - 🇩🇪 Germany 6 t.me/SurfShark_ALA_67
+      - 🇩🇪 Germany 7 t.me/SurfShark_ALA_68
+      - 🇩🇪 Germany 8 t.me/SurfShark_ALA_69
+      - 🇩🇪 Germany 9 t.me/SurfShark_ALA_70
+      - 🇬🇷 Greece 1 t.me/SurfShark_ALA_71
+      - 🇭🇰 Hong Kong 1 t.me/SurfShark_ALA _72
+      - 🇭🇰 Hong Kong 2 t.me/SurfShark_ALA _73
+      - 🇭🇺 Hungary 1 t.me/SurfShark_ALA  _74
+      - 🇮🇳 India 1 t.me/SurfShark_ALA_75
+      - 🇮🇳 India 2 t.me/SurfShark_ALA_76
+      - 🇮🇳India#🇮🇳 India 3 t.me/SurfShark_ALA_77
+      - 🇮🇳India#🇮🇳 India 4 t.me/SurfShark_ALA_78
+      - 🇮🇳India#🇮🇳 India 5 t.me/SurfShark_ALA_79
+      - 🇮🇳India#🇮🇳 India 6 t.me/SurfShark_ALA_80
+      - 🇮🇳India#🇮🇳 India 7 t.me/SurfShark_ALA_81
+      - 🇮🇳India#🇮🇳 India 8 t.me/SurfShark_ALA_82
+      - 🇮🇪 Ireland 1 t.me/SurfShark_ALA_83
+      - 🇮🇪 Ireland 2 t.me/SurfShark_ALA_84
+      - 🇮🇱 Israel 1 t.me/SurfShark_ALA_85
+      - 🇮🇱 Israel 2 t.me/SurfShark_ALA_86
+      - 🇮🇹 Italy.Milan 1 t.me/SurfShark_ALA_87
+      - 🇮🇹 Italy.Milan 2 t.me/SurfShark_ALA_88
+      - 🇮🇹 Italy.Milan 3 t.me/SurfShark_ALA_89
+      - 🇮🇹 Italy.Milan 4 t.me/SurfShark_ALA_90
+      - 🇮🇹 Italy.Milan 5 t.me/SurfShark_ALA_91
+      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _92
+      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _93
+      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _94
+      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _95
+      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _96
+      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _97
+      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _98
+      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _99
+      - 🇰🇷 South Korea 1 t.me/SurfShark_ALA_100
+      - 🇰🇷 South Korea 2 t.me/SurfShark_ALA_101
+      - 🇰🇷 South Korea 3 t.me/SurfShark_ALA_102
+      - 🇰🇷 South Korea 4 t.me/SurfShark_ALA_103
+      - 🇰🇷 South Korea 5 t.me/SurfShark_ALA_104
+      - 🇰🇷 South Korea 6 t.me/SurfShark_ALA_105
+      - 🇱🇺 Luxembourg 1 t.me/SurfShark_ALA_106
+      - 🇲🇾 Malaysia 1 t.me/SurfShark_ALA_107
+      - 🇲🇾 Malaysia 2 t.me/SurfShark_ALA_108
+      - 🇲🇽 Mexico 1 t.me/SurfShark_ALA_109
+      - 🇲🇩 Moldova 1 t.me/SurfShark_ALA_110
+      - 🇳🇱 Netherlands 1 t.me/SurfShark_ALA_111
+      - 🇳🇬 Nigeria 1 t.me/SurfShark_ALA_112
+      - 🇳🇴 Norway 1 t.me/SurfShark_ALA_113
+      - 🇳🇴 Norway 2 t.me/SurfShark_ALA_114
+      - 🇳🇴 Norway 3 t.me/SurfShark_ALA_115
+      - 🇳🇴 Norway 4 t.me/SurfShark_ALA_116
+      - 🇳🇴 Norway 5 t.me/SurfShark_ALA_117
+      - 🇳🇴 Norway 6 t.me/SurfShark_ALA_118
+      - 🇵🇱 Poland 1 t.me/SurfShark_ALA  _119
+      - 🇵🇱 Poland 2 t.me/SurfShark_ALA  _120
+      - 🇵🇹 Portugal 1 t.me/SurfShark_ALA_121
+      - 🇷🇴 Romania 1 t.me/SurfShark_ALA  _122
+      - 🇷🇺 Russia 1 t.me/SurfShark_ALA_123
+      - 🇷🇺 Russia 2 t.me/SurfShark_ALA_124
+      - 🇷🇺 Russia 3 t.me/SurfShark_ALA_125
+      - 🇸🇬 Singapore 1 t.me/SurfShark_ALA_126
+      - 🇸🇬 Singapore 2 t.me/SurfShark_ALA_127
+      - 🇸🇬 Singapore 3 t.me/SurfShark_ALA_128
+      - 🇸🇮 Slovenia 1 t.me/SurfShark_ALA_129
+      - 🇸🇰 Slovakia  1 t.me/SurfShark_ALA_130
+      - 🇿🇦 SouthAfrica 1 t.me/SurfShark_ALA_131
+      - 🇪🇸 Spain 1 t.me/SurfShark_ALA_132
+      - 🇪🇸 Spain 2 t.me/SurfShark_ALA_133
+      - 🇸🇪 Sweden 1 t.me/SurfShark_ALA _134
+      - 🇸🇪 Sweden 2 t.me/SurfShark_ALA _135
+      - 🇸🇪 Sweden 3 t.me/SurfShark_ALA _136
+      - 🇸🇪 Sweden 4 t.me/SurfShark_ALA _137
+      - 🇸🇪 Sweden 5 t.me/SurfShark_ALA _138
+      - 🇸🇪 Sweden 6 t.me/SurfShark_ALA _139
+      - 🇸🇪 Sweden 7 t.me/SurfShark_ALA _140
+      - 🇸🇪 Sweden 8 t.me/SurfShark_ALA _141
+      - 🇸🇪 Sweden 9 t.me/SurfShark_ALA _142
+      - 🇨🇭 Switzerland 1 t.me/SurfShark_ALA _143
+      - 🇹🇼 Taiwan 1 t.me/SurfShark_ALA_144
+      - 🇹🇷 Turkey 1 t.me/SurfShark_ALA_145
+      - 🇹🇷 Turkey 2 t.me/SurfShark_ALA_146
+      - 🇹🇷 Turkey 3 t.me/SurfShark_ALA_147
+      - 🇹🇷 Turkey 4 t.me/SurfShark_ALA_148
+      - 🇹🇷 Turkey 5 t.me/SurfShark_ALA_149
+      - 🇹🇷 Turkey 6 t.me/SurfShark_ALA_150
+      - 🇹🇷 Turkey 7 t.me/SurfShark_ALA_151
+      - 🇹🇷 Turkey 8 t.me/SurfShark_ALA_152
+      - 🇺🇦 Ukraine  1 t.me/SurfShark_ALA_153
+      - 🇦🇪 UAE 1 t.me/SurfShark_ALA_154
+      - 🇦🇪 UAE 2 t.me/SurfShark_ALA_155
+      - 🇦🇪 UAE 3 t.me/SurfShark_ALA_156
+      - 🇦🇪 UAE 4 t.me/SurfShark_ALA_157
+      - 🇦🇪 UAE 5 t.me/SurfShark_ALA_158
+      - 🇦🇪 UAE 6 t.me/SurfShark_ALA_159
+      - 🇬🇧 UK.London 1 t.me/SurfShark_ALA_160
+      - 🇬🇧 UK.London 2 t.me/SurfShark_ALA_161
+      - 🇬🇧 UK.London 3 t.me/SurfShark_ALA_162
+      - 🇬🇧 UK.London 4 t.me/SurfShark_ALA_163
+      - 🇬🇧 UK.London 5 t.me/SurfShark_ALA_164
+      - 🇬🇧 UK.London 6 t.me/SurfShark_ALA_165
+      - 🇬🇧 UK.London 7 t.me/SurfShark_ALA_166
+      - 🇺🇸 USA.NewYorkCity 1 t.me/SurfShark_ALA_167
+      - 🇺🇸 USA.NewYorkCity 2 t.me/SurfShark_ALA_168
+      - 🇺🇸 USA.NewYorkCity 3 t.me/SurfShark_ALA_169
+      - 🇺🇸 USA.NewJersey 1 t.me/SurfShark_ALA_170
+      - 🇺🇸 USA.Denver 1 t.me/SurfShark_ALA_171
+      - 🇺🇸 USA.Georgia.Atlanta 1 t.me/SurfShark_ALA_172
+      - 🇺🇸 USA.Seattle 1 t.me/SurfShark_ALA_173
+      - 🇺🇸 USA.Texas.Dallas 1 t.me/SurfShark_ALA_174
+      - 🇺🇸 USA.Phoenix 1 t.me/SurfShark_ALA_175
+      - 🇺🇸 USA.LosAngeles 1 t.me/SurfShark_ALA_176
+      - 🇺🇸 USA.LosAngeles 2 t.me/SurfShark_ALA_177
+      - 🇺🇸 USA.LosAngeles 3 t.me/SurfShark_ALA_178
+      - 🇺🇸 USA.LosAngeles 4 t.me/SurfShark_ALA_179
 
   - name: 🎯 Auto Select BestPing
     type: url-test
     url: http://google.com
-    interval: 300
+    interval: 600
     proxies:
-      - 🇦🇷 Argentina 1 t.me/SurfShark_ALA_10
-      - 🇦🇹 Austria 1 t.me/SurfShark_ALA_11
-      - 🇦🇿 Azerbaijan 1 t.me/SurfShark_ALA _12
-      - 🇦🇿 Azerbaijan 2 t.me/SurfShark_ALA _13
-      - 🇦🇿 Azerbaijan 3 t.me/SurfShark_ALA _14
-      - 🇧🇪 Belgium 1 t.me/SurfShark_ALA _15
-      - 🇧🇪 Belgium 2 t.me/SurfShark_ALA _16
-      - 🇧🇪 Belgium 3 t.me/SurfShark_ALA _17
-      - 🇧🇪 Belgium 4 t.me/SurfShark_ALA _18
-      - 🇧🇪 Belgium 5 t.me/SurfShark_ALA _19
-      - 🇧🇪 Belgium 6 t.me/SurfShark_ALA _20
-      - 🇧🇪 Belgium 7 t.me/SurfShark_ALA _21
-      - 🇧🇦 Bosnia-and-Herzegovina 1 t.me/SurfShark_ALA_22
-      - 🇧🇷 Brazil  1 t.me/SurfShark_ALA_23
-      - 🇨🇦 Canada 1 t.me/SurfShark_ALA_24
-      - 🇨🇦 Canada 2 t.me/SurfShark_ALA_25
-      - 🇨🇦 Canada 3 t.me/SurfShark_ALA_26
-      - 🇨🇦 Canada 4 t.me/SurfShark_ALA_27
-      - 🇨🇦 Canada 5 t.me/SurfShark_ALA_28
-      - 🇨🇦 Canada 6 t.me/SurfShark_ALA_29
-      - 🇨🇦 Canada 7 t.me/SurfShark_ALA_30
-      - 🇨🇦 Canada 8 t.me/SurfShark_ALA_31
-      - 🇨🇦 Canada 9 t.me/SurfShark_ALA_32
-      - 🇨🇦 Canada 10 t.me/SurfShark_ALA_33
-      - 🇨🇿 CzechRepublic 1 t.me/SurfShark_ALA_34
-      - 🇩🇰 Denmark 1 t.me/SurfShark_ALA _35
-      - 🇩🇰 Denmark 2 t.me/SurfShark_ALA _36
-      - 🇫🇮 Finland 1 t.me/SurfShark_ALA_37
-      - 🇫🇷 France 1 t.me/SurfShark_ALA_38
-      - 🇫🇷 France 2 t.me/SurfShark_ALA_39
-      - 🇫🇷 France 3 t.me/SurfShark_ALA_40
-      - 🇫🇷 France 4 t.me/SurfShark_ALA_41
-      - 🇫🇷 France 5 t.me/SurfShark_ALA_42
-      - 🇫🇷 France 6 t.me/SurfShark_ALA_43
-      - 🇫🇷 France 7 t.me/SurfShark_ALA_44
-      - 🇫🇷 France 8 t.me/SurfShark_ALA_45
-      - 🇫🇷 France 9 t.me/SurfShark_ALA_46
-      - 🇩🇪 Germany 1 t.me/SurfShark_ALA_47
-      - 🇩🇪 Germany 2 t.me/SurfShark_ALA_48
-      - 🇩🇪 Germany 3 t.me/SurfShark_ALA_49
-      - 🇩🇪 Germany 4 t.me/SurfShark_ALA_50
-      - 🇩🇪 Germany 5 t.me/SurfShark_ALA_51
-      - 🇩🇪 Germany 6 t.me/SurfShark_ALA_52
-      - 🇩🇪 Germany 7 t.me/SurfShark_ALA_53
-      - 🇩🇪 Germany 8 t.me/SurfShark_ALA_54
-      - 🇩🇪 Germany 9 t.me/SurfShark_ALA_55
-      - 🇬🇷 Greece 1 t.me/SurfShark_ALA_56
-      - 🇭🇰 Hong Kong 1 t.me/SurfShark_ALA _57
-      - 🇭🇰 Hong Kong 2 t.me/SurfShark_ALA _58
-      - 🇭🇺 Hungary 1 t.me/SurfShark_ALA  _59
-      - 🇮🇳 India 1 t.me/SurfShark_ALA_60
-      - 🇮🇳 India 2 t.me/SurfShark_ALA_61
-      - 🇮🇳India#🇮🇳 India 3 t.me/SurfShark_ALA_62
-      - 🇮🇳India#🇮🇳 India 4 t.me/SurfShark_ALA_63
-      - 🇮🇳India#🇮🇳 India 5 t.me/SurfShark_ALA_64
-      - 🇮🇳India#🇮🇳 India 6 t.me/SurfShark_ALA_65
-      - 🇮🇳India#🇮🇳 India 7 t.me/SurfShark_ALA_66
-      - 🇮🇳India#🇮🇳 India 8 t.me/SurfShark_ALA_67
-      - 🇮🇪 Ireland 1 t.me/SurfShark_ALA_68
-      - 🇮🇪 Ireland 2 t.me/SurfShark_ALA_69
-      - 🇮🇱 Israel 1 t.me/SurfShark_ALA_70
-      - 🇮🇱 Israel 2 t.me/SurfShark_ALA_71
-      - 🇮🇹 Italy.Milan 1 t.me/SurfShark_ALA_72
-      - 🇮🇹 Italy.Milan 2 t.me/SurfShark_ALA_73
-      - 🇮🇹 Italy.Milan 3 t.me/SurfShark_ALA_74
-      - 🇮🇹 Italy.Milan 4 t.me/SurfShark_ALA_75
-      - 🇮🇹 Italy.Milan 5 t.me/SurfShark_ALA_76
-      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _77
-      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _78
-      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _79
-      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _80
-      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _81
-      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _82
-      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _83
-      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _84
-      - 🇰🇷 South Korea 1 t.me/SurfShark_ALA_85
-      - 🇰🇷 South Korea 2 t.me/SurfShark_ALA_86
-      - 🇰🇷 South Korea 3 t.me/SurfShark_ALA_87
-      - 🇰🇷 South Korea 4 t.me/SurfShark_ALA_88
-      - 🇰🇷 South Korea 5 t.me/SurfShark_ALA_89
-      - 🇰🇷 South Korea 6 t.me/SurfShark_ALA_90
-      - 🇱🇺 Luxembourg 1 t.me/SurfShark_ALA_91
-      - 🇲🇾 Malaysia 1 t.me/SurfShark_ALA_92
-      - 🇲🇽 Mexico 1 t.me/SurfShark_ALA_93
-      - 🇲🇩 Moldova 1 t.me/SurfShark_ALA_94
-      - 🇳🇱 Netherlands 1 t.me/SurfShark_ALA_95
-      - 🇳🇬 Nigeria 1 t.me/SurfShark_ALA_96
-      - 🇳🇴 Norway 1 t.me/SurfShark_ALA_97
-      - 🇳🇴 Norway 2 t.me/SurfShark_ALA_98
-      - 🇳🇴 Norway 3 t.me/SurfShark_ALA_99
-      - 🇳🇴 Norway 4 t.me/SurfShark_ALA_100
-      - 🇳🇴 Norway 5 t.me/SurfShark_ALA_101
-      - 🇳🇴 Norway 6 t.me/SurfShark_ALA_102
-      - 🇵🇱 Poland 1 t.me/SurfShark_ALA  _103
-      - 🇵🇱 Poland 2 t.me/SurfShark_ALA  _104
-      - 🇵🇹 Portugal 1 t.me/SurfShark_ALA_105
-      - 🇷🇴 Romania 1 t.me/SurfShark_ALA  _106
-      - 🇷🇺 Russia 1 t.me/SurfShark_ALA_107
-      - 🇷🇺 Russia 2 t.me/SurfShark_ALA_108
-      - 🇷🇺 Russia 3 t.me/SurfShark_ALA_109
-      - 🇸🇬 Singapore 1 t.me/SurfShark_ALA_110
-      - 🇸🇬 Singapore 2 t.me/SurfShark_ALA_111
-      - 🇸🇬 Singapore 3 t.me/SurfShark_ALA_112
-      - 🇸🇮 Slovenia 1 t.me/SurfShark_ALA_113
-      - 🇸🇰 Slovakia  1 t.me/SurfShark_ALA_114
-      - 🇿🇦 SouthAfrica 1 t.me/SurfShark_ALA_115
-      - 🇪🇸 Spain 1 t.me/SurfShark_ALA_116
-      - 🇪🇸 Spain 2 t.me/SurfShark_ALA_117
-      - 🇸🇪 Sweden 1 t.me/SurfShark_ALA _118
-      - 🇸🇪 Sweden 2 t.me/SurfShark_ALA _119
-      - 🇸🇪 Sweden 3 t.me/SurfShark_ALA _120
-      - 🇸🇪 Sweden 4 t.me/SurfShark_ALA _121
-      - 🇸🇪 Sweden 5 t.me/SurfShark_ALA _122
-      - 🇸🇪 Sweden 6 t.me/SurfShark_ALA _123
-      - 🇸🇪 Sweden 7 t.me/SurfShark_ALA _124
-      - 🇸🇪 Sweden 8 t.me/SurfShark_ALA _125
-      - 🇸🇪 Sweden 9 t.me/SurfShark_ALA _126
-      - 🇨🇭 Switzerland 1 t.me/SurfShark_ALA _127
-      - 🇹🇼 Taiwan 1 t.me/SurfShark_ALA_128
-      - 🇹🇷 Turkey 1 t.me/SurfShark_ALA_129
-      - 🇹🇷 Turkey 2 t.me/SurfShark_ALA_130
-      - 🇹🇷 Turkey 3 t.me/SurfShark_ALA_131
-      - 🇹🇷 Turkey 4 t.me/SurfShark_ALA_132
-      - 🇹🇷 Turkey 5 t.me/SurfShark_ALA_133
-      - 🇹🇷 Turkey 6 t.me/SurfShark_ALA_134
-      - 🇹🇷 Turkey 7 t.me/SurfShark_ALA_135
-      - 🇹🇷 Turkey 8 t.me/SurfShark_ALA_136
-      - 🇺🇦 Ukraine  1 t.me/SurfShark_ALA_137
-      - 🇦🇪 UAE 1 t.me/SurfShark_ALA_138
-      - 🇦🇪 UAE 2 t.me/SurfShark_ALA_139
-      - 🇦🇪 UAE 3 t.me/SurfShark_ALA_140
-      - 🇦🇪 UAE 4 t.me/SurfShark_ALA_141
-      - 🇦🇪 UAE 5 t.me/SurfShark_ALA_142
-      - 🇦🇪 UAE 6 t.me/SurfShark_ALA_143
-      - 🇬🇧 UK.London 1 t.me/SurfShark_ALA_144
-      - 🇬🇧 UK.London 2 t.me/SurfShark_ALA_145
-      - 🇬🇧 UK.London 3 t.me/SurfShark_ALA_146
-      - 🇬🇧 UK.London 4 t.me/SurfShark_ALA_147
-      - 🇬🇧 UK.London 5 t.me/SurfShark_ALA_148
-      - 🇬🇧 UK.London 6 t.me/SurfShark_ALA_149
-      - 🇬🇧 UK.London 7 t.me/SurfShark_ALA_150
-      - 🇺🇸 USA.NewYorkCity 1 t.me/SurfShark_ALA_151
-      - 🇺🇸 USA.NewYorkCity 2 t.me/SurfShark_ALA_152
-      - 🇺🇸 USA.NewYorkCity 3 t.me/SurfShark_ALA_153
-      - 🇺🇸 USA.NewJersey 1 t.me/SurfShark_ALA_154
-      - 🇺🇸 USA.Denver 1 t.me/SurfShark_ALA_155
-      - 🇺🇸 USA.Georgia.Atlanta 1 t.me/SurfShark_ALA_156
-      - 🇺🇸 USA.Seattle 1 t.me/SurfShark_ALA_157
-      - 🇺🇸 USA.Texas.Dallas 1 t.me/SurfShark_ALA_158
-      - 🇺🇸 USA.Phoenix 1 t.me/SurfShark_ALA_159
-      - 🇺🇸 USA.LosAngeles 1 t.me/SurfShark_ALA_160
-      - 🇺🇸 USA.LosAngeles 2 t.me/SurfShark_ALA_161
-      - 🇺🇸 USA.LosAngeles 3 t.me/SurfShark_ALA_162
-      - 🇺🇸 USA.LosAngeles 4 t.me/SurfShark_ALA_163
+      - 🇪🇬 Egypt 1 t.me/SurfShark_ALA_10
+      - 🇪🇬 Egypt 2 t.me/SurfShark_ALA_11
+      - 🇦🇷 Argentina 1 t.me/SurfShark_ALA_12
+      - 🇦🇺 Australia 1 t.me/SurfShark_ALA_13
+      - 🇦🇺 Australia 1 t.me/SurfShark_ALA_14
+      - 🇦🇹 Austria 1 t.me/SurfShark_ALA_15
+      - 🇦🇿 Azerbaijan 1 t.me/SurfShark_ALA _16
+      - 🇦🇿 Azerbaijan 2 t.me/SurfShark_ALA _17
+      - 🇦🇿 Azerbaijan 3 t.me/SurfShark_ALA _18
+      - 🇧🇪 Belgium 1 t.me/SurfShark_ALA _19
+      - 🇧🇪 Belgium 2 t.me/SurfShark_ALA _20
+      - 🇧🇪 Belgium 3 t.me/SurfShark_ALA _21
+      - 🇧🇪 Belgium 4 t.me/SurfShark_ALA _22
+      - 🇧🇪 Belgium 5 t.me/SurfShark_ALA _23
+      - 🇧🇪 Belgium 6 t.me/SurfShark_ALA _24
+      - 🇧🇪 Belgium 7 t.me/SurfShark_ALA _25
+      - 🇧🇦 Bosnia-and-Herzegovina 1 t.me/SurfShark_ALA_26
+      - 🇧🇦 Bosnia-and-Herzegovina 2 t.me/SurfShark_ALA_27
+      - 🇧🇦 Bosnia-and-Herzegovina 3 t.me/SurfShark_ALA_28
+      - 🇧🇦 Bosnia-and-Herzegovina 4 t.me/SurfShark_ALA_29
+      - 🇧🇦 Bosnia-and-Herzegovina 5 t.me/SurfShark_ALA_30
+      - 🇧🇦 Bosnia-and-Herzegovina 6 t.me/SurfShark_ALA_31
+      - 🇧🇦 Bosnia-and-Herzegovina 7 t.me/SurfShark_ALA_32
+      - 🇧🇦 Bosnia-and-Herzegovina 8 t.me/SurfShark_ALA_33
+      - 🇧🇦 Bosnia-and-Herzegovina 9 t.me/SurfShark_ALA_34
+      - 🇧🇦 Bosnia-and-Herzegovina 10 t.me/SurfShark_ALA_35
+      - 🇧🇦 Bosnia-and-Herzegovina 11 t.me/SurfShark_ALA_36
+      - 🇧🇷 Brazil  1 t.me/SurfShark_ALA_37
+      - 🇧🇬 Bulgaria 1 t.me/SurfShark_ALA_38
+      - 🇨🇦 Canada 1 t.me/SurfShark_ALA_39
+      - 🇨🇦 Canada 2 t.me/SurfShark_ALA_40
+      - 🇨🇦 Canada 3 t.me/SurfShark_ALA_41
+      - 🇨🇦 Canada 4 t.me/SurfShark_ALA_42
+      - 🇨🇦 Canada 5 t.me/SurfShark_ALA_43
+      - 🇨🇦 Canada 6 t.me/SurfShark_ALA_44
+      - 🇨🇦 Canada 7 t.me/SurfShark_ALA_45
+      - 🇨🇦 Canada 8 t.me/SurfShark_ALA_46
+      - 🇨🇦 Canada 9 t.me/SurfShark_ALA_47
+      - 🇨🇦 Canada 10 t.me/SurfShark_ALA_48
+      - 🇨🇿 CzechRepublic 1 t.me/SurfShark_ALA_49
+      - 🇩🇰 Denmark 1 t.me/SurfShark_ALA _50
+      - 🇩🇰 Denmark 2 t.me/SurfShark_ALA _51
+      - 🇫🇮 Finland 1 t.me/SurfShark_ALA_52
+      - 🇫🇷 France 1 t.me/SurfShark_ALA_53
+      - 🇫🇷 France 2 t.me/SurfShark_ALA_54
+      - 🇫🇷 France 3 t.me/SurfShark_ALA_55
+      - 🇫🇷 France 4 t.me/SurfShark_ALA_56
+      - 🇫🇷 France 5 t.me/SurfShark_ALA_57
+      - 🇫🇷 France 6 t.me/SurfShark_ALA_58
+      - 🇫🇷 France 7 t.me/SurfShark_ALA_59
+      - 🇫🇷 France 8 t.me/SurfShark_ALA_60
+      - 🇫🇷 France 9 t.me/SurfShark_ALA_61
+      - 🇩🇪 Germany 1 t.me/SurfShark_ALA_62
+      - 🇩🇪 Germany 2 t.me/SurfShark_ALA_63
+      - 🇩🇪 Germany 3 t.me/SurfShark_ALA_64
+      - 🇩🇪 Germany 4 t.me/SurfShark_ALA_65
+      - 🇩🇪 Germany 5 t.me/SurfShark_ALA_66
+      - 🇩🇪 Germany 6 t.me/SurfShark_ALA_67
+      - 🇩🇪 Germany 7 t.me/SurfShark_ALA_68
+      - 🇩🇪 Germany 8 t.me/SurfShark_ALA_69
+      - 🇩🇪 Germany 9 t.me/SurfShark_ALA_70
+      - 🇬🇷 Greece 1 t.me/SurfShark_ALA_71
+      - 🇭🇰 Hong Kong 1 t.me/SurfShark_ALA _72
+      - 🇭🇰 Hong Kong 2 t.me/SurfShark_ALA _73
+      - 🇭🇺 Hungary 1 t.me/SurfShark_ALA  _74
+      - 🇮🇳 India 1 t.me/SurfShark_ALA_75
+      - 🇮🇳 India 2 t.me/SurfShark_ALA_76
+      - 🇮🇳India#🇮🇳 India 3 t.me/SurfShark_ALA_77
+      - 🇮🇳India#🇮🇳 India 4 t.me/SurfShark_ALA_78
+      - 🇮🇳India#🇮🇳 India 5 t.me/SurfShark_ALA_79
+      - 🇮🇳India#🇮🇳 India 6 t.me/SurfShark_ALA_80
+      - 🇮🇳India#🇮🇳 India 7 t.me/SurfShark_ALA_81
+      - 🇮🇳India#🇮🇳 India 8 t.me/SurfShark_ALA_82
+      - 🇮🇪 Ireland 1 t.me/SurfShark_ALA_83
+      - 🇮🇪 Ireland 2 t.me/SurfShark_ALA_84
+      - 🇮🇱 Israel 1 t.me/SurfShark_ALA_85
+      - 🇮🇱 Israel 2 t.me/SurfShark_ALA_86
+      - 🇮🇹 Italy.Milan 1 t.me/SurfShark_ALA_87
+      - 🇮🇹 Italy.Milan 2 t.me/SurfShark_ALA_88
+      - 🇮🇹 Italy.Milan 3 t.me/SurfShark_ALA_89
+      - 🇮🇹 Italy.Milan 4 t.me/SurfShark_ALA_90
+      - 🇮🇹 Italy.Milan 5 t.me/SurfShark_ALA_91
+      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _92
+      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _93
+      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _94
+      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _95
+      - 🇯🇵 Japan 1 t.me/SurfShark_ALA _96
+      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _97
+      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _98
+      - 🇯🇵 Japan 2 t.me/SurfShark_ALA _99
+      - 🇰🇷 South Korea 1 t.me/SurfShark_ALA_100
+      - 🇰🇷 South Korea 2 t.me/SurfShark_ALA_101
+      - 🇰🇷 South Korea 3 t.me/SurfShark_ALA_102
+      - 🇰🇷 South Korea 4 t.me/SurfShark_ALA_103
+      - 🇰🇷 South Korea 5 t.me/SurfShark_ALA_104
+      - 🇰🇷 South Korea 6 t.me/SurfShark_ALA_105
+      - 🇱🇺 Luxembourg 1 t.me/SurfShark_ALA_106
+      - 🇲🇾 Malaysia 1 t.me/SurfShark_ALA_107
+      - 🇲🇾 Malaysia 2 t.me/SurfShark_ALA_108
+      - 🇲🇽 Mexico 1 t.me/SurfShark_ALA_109
+      - 🇲🇩 Moldova 1 t.me/SurfShark_ALA_110
+      - 🇳🇱 Netherlands 1 t.me/SurfShark_ALA_111
+      - 🇳🇬 Nigeria 1 t.me/SurfShark_ALA_112
+      - 🇳🇴 Norway 1 t.me/SurfShark_ALA_113
+      - 🇳🇴 Norway 2 t.me/SurfShark_ALA_114
+      - 🇳🇴 Norway 3 t.me/SurfShark_ALA_115
+      - 🇳🇴 Norway 4 t.me/SurfShark_ALA_116
+      - 🇳🇴 Norway 5 t.me/SurfShark_ALA_117
+      - 🇳🇴 Norway 6 t.me/SurfShark_ALA_118
+      - 🇵🇱 Poland 1 t.me/SurfShark_ALA  _119
+      - 🇵🇱 Poland 2 t.me/SurfShark_ALA  _120
+      - 🇵🇹 Portugal 1 t.me/SurfShark_ALA_121
+      - 🇷🇴 Romania 1 t.me/SurfShark_ALA  _122
+      - 🇷🇺 Russia 1 t.me/SurfShark_ALA_123
+      - 🇷🇺 Russia 2 t.me/SurfShark_ALA_124
+      - 🇷🇺 Russia 3 t.me/SurfShark_ALA_125
+      - 🇸🇬 Singapore 1 t.me/SurfShark_ALA_126
+      - 🇸🇬 Singapore 2 t.me/SurfShark_ALA_127
+      - 🇸🇬 Singapore 3 t.me/SurfShark_ALA_128
+      - 🇸🇮 Slovenia 1 t.me/SurfShark_ALA_129
+      - 🇸🇰 Slovakia  1 t.me/SurfShark_ALA_130
+      - 🇿🇦 SouthAfrica 1 t.me/SurfShark_ALA_131
+      - 🇪🇸 Spain 1 t.me/SurfShark_ALA_132
+      - 🇪🇸 Spain 2 t.me/SurfShark_ALA_133
+      - 🇸🇪 Sweden 1 t.me/SurfShark_ALA _134
+      - 🇸🇪 Sweden 2 t.me/SurfShark_ALA _135
+      - 🇸🇪 Sweden 3 t.me/SurfShark_ALA _136
+      - 🇸🇪 Sweden 4 t.me/SurfShark_ALA _137
+      - 🇸🇪 Sweden 5 t.me/SurfShark_ALA _138
+      - 🇸🇪 Sweden 6 t.me/SurfShark_ALA _139
+      - 🇸🇪 Sweden 7 t.me/SurfShark_ALA _140
+      - 🇸🇪 Sweden 8 t.me/SurfShark_ALA _141
+      - 🇸🇪 Sweden 9 t.me/SurfShark_ALA _142
+      - 🇨🇭 Switzerland 1 t.me/SurfShark_ALA _143
+      - 🇹🇼 Taiwan 1 t.me/SurfShark_ALA_144
+      - 🇹🇷 Turkey 1 t.me/SurfShark_ALA_145
+      - 🇹🇷 Turkey 2 t.me/SurfShark_ALA_146
+      - 🇹🇷 Turkey 3 t.me/SurfShark_ALA_147
+      - 🇹🇷 Turkey 4 t.me/SurfShark_ALA_148
+      - 🇹🇷 Turkey 5 t.me/SurfShark_ALA_149
+      - 🇹🇷 Turkey 6 t.me/SurfShark_ALA_150
+      - 🇹🇷 Turkey 7 t.me/SurfShark_ALA_151
+      - 🇹🇷 Turkey 8 t.me/SurfShark_ALA_152
+      - 🇺🇦 Ukraine  1 t.me/SurfShark_ALA_153
+      - 🇦🇪 UAE 1 t.me/SurfShark_ALA_154
+      - 🇦🇪 UAE 2 t.me/SurfShark_ALA_155
+      - 🇦🇪 UAE 3 t.me/SurfShark_ALA_156
+      - 🇦🇪 UAE 4 t.me/SurfShark_ALA_157
+      - 🇦🇪 UAE 5 t.me/SurfShark_ALA_158
+      - 🇦🇪 UAE 6 t.me/SurfShark_ALA_159
+      - 🇬🇧 UK.London 1 t.me/SurfShark_ALA_160
+      - 🇬🇧 UK.London 2 t.me/SurfShark_ALA_161
+      - 🇬🇧 UK.London 3 t.me/SurfShark_ALA_162
+      - 🇬🇧 UK.London 4 t.me/SurfShark_ALA_163
+      - 🇬🇧 UK.London 5 t.me/SurfShark_ALA_164
+      - 🇬🇧 UK.London 6 t.me/SurfShark_ALA_165
+      - 🇬🇧 UK.London 7 t.me/SurfShark_ALA_166
+      - 🇺🇸 USA.NewYorkCity 1 t.me/SurfShark_ALA_167
+      - 🇺🇸 USA.NewYorkCity 2 t.me/SurfShark_ALA_168
+      - 🇺🇸 USA.NewYorkCity 3 t.me/SurfShark_ALA_169
+      - 🇺🇸 USA.NewJersey 1 t.me/SurfShark_ALA_170
+      - 🇺🇸 USA.Denver 1 t.me/SurfShark_ALA_171
+      - 🇺🇸 USA.Georgia.Atlanta 1 t.me/SurfShark_ALA_172
+      - 🇺🇸 USA.Seattle 1 t.me/SurfShark_ALA_173
+      - 🇺🇸 USA.Texas.Dallas 1 t.me/SurfShark_ALA_174
+      - 🇺🇸 USA.Phoenix 1 t.me/SurfShark_ALA_175
+      - 🇺🇸 USA.LosAngeles 1 t.me/SurfShark_ALA_176
+      - 🇺🇸 USA.LosAngeles 2 t.me/SurfShark_ALA_177
+      - 🇺🇸 USA.LosAngeles 3 t.me/SurfShark_ALA_178
+      - 🇺🇸 USA.LosAngeles 4 t.me/SurfShark_ALA_179
 
 
 
