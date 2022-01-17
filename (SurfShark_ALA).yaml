@@ -244,7 +244,7 @@ proxy-groups:
 
   - name: 📛 YouTube without ads
     type: url-test
-    url: http://google.com
+    url: http://www.gstatic.com/generate_204
     interval: 600
     proxies:
       - 📛 YouTube without ads 1 t.me/SurfShark_ALA _1
@@ -485,7 +485,7 @@ proxy-groups:
 
   - name: 🎯 Auto Select BestPing
     type: url-test
-    url: http://google.com
+    url: http://www.gstatic.com/generate_204
     interval: 600
     proxies:
       - 🇦🇷 Argentina 1 t.me/SurfShark_ALA_13
