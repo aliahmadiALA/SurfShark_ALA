@@ -767,7 +767,6 @@ proxy-groups:
 
 
 
-
 rules:
   - DOMAIN-SUFFIX,local,DIRECT
   - DOMAIN-SUFFIX,ir,DIRECT
