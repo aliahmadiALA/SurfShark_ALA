@@ -18,12 +18,12 @@ proxies:
   - {"name":"📛YouTubewithoutads12(t_me/SurfShark_ALA)_27","server":"93.186.201.124","port":809,"type":"ss","country":"📛YouTubewithoutads12(t_me/SurfShark_ALA)_27","cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
   - {"name":"🇦🇷Argentina1(t_me/SurfShark_ALA)_41","server":"131.255.4.140","port":8389,"type":"ss","country":"🇦🇷Argentina1(t_me/SurfShark_ALA)_41","cipher":"chacha20-ietf-poly1305","password":"UHu5NzfXjuur52h9"}
   - {"name":"🇦🇺Australia1(t_me/SurfShark_ALA)_57","server":"185.167.116.76","port":800,"type":"ss","country":"🇦🇺Australia1(t_me/SurfShark_ALA)_57","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
-  - {"name":"defaultName_59","server":"185.167.116.76","port":"801%F0%9F%87%A6%F0%9F%87%BA%20Australia%202%20%28t.me/SurfShark_ALA%29","type":"ss","country":"defaultName_59","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
-  - {"name":"defaultName_61","server":"185.167.116.76","port":"802%F0%9F%87%A6%F0%9F%87%BA%20Australia%203%20%28t.me/SurfShark_ALA%29","type":"ss","country":"defaultName_61","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
-  - {"name":"defaultName_63","server":"185.167.116.76","port":"803%F0%9F%87%A6%F0%9F%87%BA%20Australia%204%20%28t.me/SurfShark_ALA%29","type":"ss","country":"defaultName_63","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
-  - {"name":"defaultName_65","server":"185.167.116.76","port":"804%F0%9F%87%A6%F0%9F%87%BA%20Australia%205%20%28t.me/SurfShark_ALA%29","type":"ss","country":"defaultName_65","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
-  - {"name":"defaultName_67","server":"185.167.116.76","port":"805%F0%9F%87%A6%F0%9F%87%BA%20Australia%206%20%28t.me/SurfShark_ALA%29","type":"ss","country":"defaultName_67","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
-  - {"name":"defaultName_69","server":"185.167.116.76","port":"806%F0%9F%87%A6%F0%9F%87%BA%20Australia%207%20%28t.me/SurfShark_ALA%29","type":"ss","country":"defaultName_69","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
+  - {"name":"🇦🇺Australia2(t_me/SurfShark_ALA)_59","server":"185.167.116.76","port":801,"type":"ss","country":"🇦🇺Australia2(t_me/SurfShark_ALA)_59","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
+  - {"name":"🇦🇺Australia3(t_me/SurfShark_ALA)_61","server":"185.167.116.76","port":802,"type":"ss","country":"🇦🇺Australia3(t_me/SurfShark_ALA)_61","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
+  - {"name":"🇦🇺Australia4(t_me/SurfShark_ALA)_63","server":"185.167.116.76","port":803,"type":"ss","country":"🇦🇺Australia4(t_me/SurfShark_ALA)_63","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
+  - {"name":"🇦🇺Australia5(t_me/SurfShark_ALA)_65","server":"185.167.116.76","port":804,"type":"ss","country":"🇦🇺Australia5(t_me/SurfShark_ALA)_65","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
+  - {"name":"🇦🇺Australia6(t_me/SurfShark_ALA)_67","server":"185.167.116.76","port":805,"type":"ss","country":"🇦🇺Australia6(t_me/SurfShark_ALA)_67","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
+  - {"name":"🇦🇺Australia7(t_me/SurfShark_ALA)_69","server":"185.167.116.76","port":806,"type":"ss","country":"🇦🇺Australia7(t_me/SurfShark_ALA)_69","cipher":"chacha20-ietf-poly1305","password":"Ultr@r00t_2017"}
   - {"name":"🇦🇹Austria1(t_me/SurfShark_ALA)_86","server":"151.236.30.184","port":989,"type":"ss","country":"🇦🇹Austria1(t_me/SurfShark_ALA)_86","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
   - {"name":"🇦🇿Azerbaijan1(t_me/SurfShark_ALA)_104","server":"94.20.154.38","port":50000,"type":"ss","country":"🇦🇿Azerbaijan1(t_me/SurfShark_ALA)_104","cipher":"aes-256-cfb","password":"9344665077"}
   - {"name":"🇦🇿Azerbaijan2(t_me/SurfShark_ALA)_106","server":"94.20.154.26","port":989,"type":"ss","country":"🇦🇿Azerbaijan2(t_me/SurfShark_ALA)_106","cipher":"aes-256-cfb","password":"f8f7aCzcPKbsF8p3"}
@@ -287,12 +287,12 @@ proxy-groups:
     proxies:
       - 🇦🇷Argentina1(t_me/SurfShark_ALA)_41
       - 🇦🇺Australia1(t_me/SurfShark_ALA)_57
-      - defaultName_59
-      - defaultName_61
-      - defaultName_63
-      - defaultName_65
-      - defaultName_67
-      - defaultName_69
+      - 🇦🇺Australia2(t_me/SurfShark_ALA)_59
+      - 🇦🇺Australia3(t_me/SurfShark_ALA)_61
+      - 🇦🇺Australia4(t_me/SurfShark_ALA)_63
+      - 🇦🇺Australia5(t_me/SurfShark_ALA)_65
+      - 🇦🇺Australia6(t_me/SurfShark_ALA)_67
+      - 🇦🇺Australia7(t_me/SurfShark_ALA)_69
       - 🇦🇹Austria1(t_me/SurfShark_ALA)_86
       - 🇦🇿Azerbaijan1(t_me/SurfShark_ALA)_104
       - 🇦🇿Azerbaijan2(t_me/SurfShark_ALA)_106
@@ -530,12 +530,12 @@ proxy-groups:
     proxies:
       - 🇦🇷Argentina1(t_me/SurfShark_ALA)_41
       - 🇦🇺Australia1(t_me/SurfShark_ALA)_57
-      - defaultName_59
-      - defaultName_61
-      - defaultName_63
-      - defaultName_65
-      - defaultName_67
-      - defaultName_69
+      - 🇦🇺Australia2(t_me/SurfShark_ALA)_59
+      - 🇦🇺Australia3(t_me/SurfShark_ALA)_61
+      - 🇦🇺Australia4(t_me/SurfShark_ALA)_63
+      - 🇦🇺Australia5(t_me/SurfShark_ALA)_65
+      - 🇦🇺Australia6(t_me/SurfShark_ALA)_67
+      - 🇦🇺Australia7(t_me/SurfShark_ALA)_69
       - 🇦🇹Austria1(t_me/SurfShark_ALA)_86
       - 🇦🇿Azerbaijan1(t_me/SurfShark_ALA)_104
       - 🇦🇿Azerbaijan2(t_me/SurfShark_ALA)_106
