@@ -1,6 +1,6 @@
 # SurfShark_ALA
 
-Test
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn5ObIFNhamphZCBib3JoYW5pICgxNUdCKSIsCiAgImFkZCI6ICIxNDIuOTMuMTc1LjIyNSIsCiAgInBvcnQiOiA1OTM3NiwKICAiaWQiOiAiNWJmZTlmNDYtN2EwOC00ZjY4LWQwNmYtOTkxNmJkYjFiNmY0IiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAibm9uZSIKfQ==
 
 Join my Telegram channel-> https://t.me/SurfShark_ALA
 
