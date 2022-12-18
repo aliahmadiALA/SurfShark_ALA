@@ -1,7 +1,5 @@
 # SurfShark_ALA
 
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn5ObIEQgQmF5YXQgKEcyKSIsCiAgImFkZCI6ICIzNy4zMi42LjE4OSIsCiAgInBvcnQiOiAyMjU2NCwKICAiaWQiOiAiNDdlODc1YTYtN2RhZi00NTJlLWE3MDEtNDQ1OWZkNTk0NmY2IiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAiaHR0cCIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogIm5vbmUiCn0=
-
 
 Join my Telegram channel-> https://t.me/SurfShark_ALA
 
