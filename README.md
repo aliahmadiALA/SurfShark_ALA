@@ -1,9 +1,6 @@
-# SurfShark_ALA
- 
-    vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn5SwIERyLiBSYWtoc2hhbiAob3ZoKSIsCiAgImFkZCI6ICIxNDEuOTUuNzQuMTczIiwKICAicG9ydCI6IDI4MDMyLAogICJpZCI6ICI3MjcyOTI5NS03NTA0LTRkZGMtOTZlZC01NDg5NTgyNjg5YjQiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJodHRwIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi8iLAogICJ0bHMiOiAibm9uZSIKfQ==
-
 Join my Telegram channel-> https://t.me/SurfShark_ALA
-
+ 
+---------------------------------------------------------------------------------------------------- 
 Subscribe link (.YAML): 
  
      https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(SurfShark_ALA).yaml
