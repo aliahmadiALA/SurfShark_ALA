@@ -37,12 +37,12 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 
 ---------------------------------------------------------------------------------------------------- 
  
-💻 Windows  ┌[V2rayN](https://github.com/2dust/v2rayN/releases/download/5.37/v2rayN-Core.zip) ✔️
-💻 Windows  ├[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.4.1.0/Shadowsocks-4.4.1.0.zip)  
-💻 Windows  ├[Outline](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe) 
-💻 Windows  ├[NetchX](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z) 
-💻 Windows  ├[SSTap](https://github.com/mayunbaba2/SSTap-beta-setup/raw/master/SSTap-beta-setup-1.1.0.1.exe.7z) 
-💻 Windows  └[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.5/Clash.for.Windows.Setup.0.20.5.arm64.exe) 
+💻 Windows  ┌[V2rayN](https://github.com/2dust/v2rayN/releases/download/5.37/v2rayN-Core.zip) ✔️                                                           
+💻 Windows  ├[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.4.1.0/Shadowsocks-4.4.1.0.zip)                         
+💻 Windows  ├[Outline](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.exe)                           
+💻 Windows  ├[NetchX](https://github.com/netchx/netch/releases/download/1.9.7/Netch.7z)                                                                   
+💻 Windows  ├[SSTap](https://github.com/mayunbaba2/SSTap-beta-setup/raw/master/SSTap-beta-setup-1.1.0.1.exe.7z)                                           
+💻 Windows  └[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.5/Clash.for.Windows.Setup.0.20.5.arm64.exe)                 
 
 ----------------------------------------------------------------------------------------------------
 
