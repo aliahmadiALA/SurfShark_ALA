@@ -3,7 +3,8 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn5SwIERyLiBSYWtoc2hhbiAob3ZoKSIsCiAgImFk
 
 Join my Telegram channel-> https://t.me/SurfShark_ALA
 
-Subscribe link (.YAML): https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(SurfShark_ALA).yaml
+Subscribe link (.YAML): 
+     https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(SurfShark_ALA).yaml
 
 Subscribe link (.JSON): https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA).json
 
@@ -12,7 +13,7 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 
 🔰Subscribe link (.TXT)🔰 can be used in the following tools👇
 
-                                                                                                                                                                                                                                                             
+----------------------------------------------------------------------------------------------------                                                                                                   
 📱Android ┌ [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)  ([git](https://github.com/2dust/v2rayNG/releases))                   
 📱Android ├[XRAY VPN](https://play.google.com/store/apps/details?id=vpn.v2ray.xray)                                                                       
 📱Android ├[Matsuri](https://github.com/MatsuriDayo/Matsuri/releases)                                                                                     
