@@ -19,14 +19,14 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 📱Android └ [AnXray](https://github.com/XTLS/AnXray/releases/) ✔️
 
 
-             ┌ NapsternetV (https://apps.apple.com/us/app/napsternetv/id1629465476) (ios 15+)    
-              ├ OneClick (https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) (ios 14+)
-              ├ Potatso lite (https://apps.apple.com/us/app/potatso-lite/id1239860606) (ios 13+)
-📱iOS:  ├ ShadowLink (https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518) (ios 12.1+) 
-              ├ Spectre (https://apps.apple.com/us/app/spectre-vpn/id1508712998) (ios 11+) 
-              ├ Fair vpn (https://apps.apple.com/us/app/fair-vpn/id1533873488) (ios 10+) 
-              ├ Shadowrocket (https://apps.apple.com/us/app/shadowrocket/id932747118) (ios 9+) ✔
-              └ Outline (https://apps.apple.com/us/app/outline-app/id1356177741) (ios 9+) 
+        ┌ [NapsternetV] (https://apps.apple.com/us/app/napsternetv/id1629465476) (ios 15+)    
+        ├ [OneClick] (https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) (ios 14+)
+        ├ [Potatso lite] (https://apps.apple.com/us/app/potatso-lite/id1239860606) (ios 13+)
+📱iOS:  ├ [ShadowLink] (https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518) (ios 12.1+) 
+        ├ [Spectre] (https://apps.apple.com/us/app/spectre-vpn/id1508712998) (ios 11+) 
+        ├ [Fair vpn] (https://apps.apple.com/us/app/fair-vpn/id1533873488) (ios 10+) 
+        ├ [Shadowrocket] (https://apps.apple.com/us/app/shadowrocket/id932747118) (ios 9+) ✔
+        └ [Outline] (https://apps.apple.com/us/app/outline-app/id1356177741) (ios 9+) 
 
                            
 💻 Windows ├ [V2rayN](https://github.com/2dust/v2rayN/releases/download/4.27/v2rayN-Core.zip) ✔️
