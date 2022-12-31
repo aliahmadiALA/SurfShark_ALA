@@ -55,6 +55,9 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 
 ----------------------------------------------------------------------------------------------------
  
-💻 MacOS ├ [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases) + [Core](https://github.com/v2fly/v2ray-core/releases/) 
+           ┌[Shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.9.4/ShadowsocksX-NG.1.9.4.zip) 
+💻 MacOS   ├[Outline](https://apps.apple.com/us/app/outline-app/id1356177741) ✔️ 
+           ├[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.5/Clash.for.Windows-0.19.5.dmg) 
+           └[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases) ([Core](https://github.com/XTLS/Xray-core/releases))
                            
 ---------------------------------------------------------------------------------------------------- 
