@@ -46,16 +46,19 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 
 ----------------------------------------------------------------------------------------------------
 
-🐧 Linux  ┌[Shadowsocksqt5](https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation)  
-🐧 Linux  ├[V2rayA](https://github.com/v2rayA/v2rayA/releases)                                                                     
-🐧 Linux  ├[Outline](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.AppImage) ✔️                  
-🐧 Linux  ├[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.7/Clash.for.Windows-0.20.7-x64-linux.tar.gz)                   
-🐧 Linux  └[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases) ([Core](https://github.com/v2fly/v2ray-core/releases/)) 
+🐧 Linux👇
+ 
+┌[Shadowsocksqt5](https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation)  
+├[V2rayA](https://github.com/v2rayA/v2rayA/releases)                                                                     
+├[Outline](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.AppImage) ✔️                  
+├[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.7/Clash.for.Windows-0.20.7-x64-linux.tar.gz)                   
+└[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases) ([Core](https://github.com/v2fly/v2ray-core/releases/)) 
                     
 
 ----------------------------------------------------------------------------------------------------
  
-💻 MacOS  
+💻 MacOS👇
+ 
 ┌[Shadowsocks](https://github.com/shadowsocks/ShadowsocksX-NG/releases/download/v1.9.4/ShadowsocksX-NG.1.9.4.zip)                 
 ├[Outline](https://apps.apple.com/us/app/outline-app/id1356177741) ✔️                 
 ├[Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.5/Clash.for.Windows-0.19.5.dmg)                 
