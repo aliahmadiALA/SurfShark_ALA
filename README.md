@@ -12,11 +12,16 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 
 🔰Subscribe link (.TXT)🔰 can be used in the following tools👇
 
-📱Android ┌ [V2ray](https://play.google.com/store/apps/details?id=com.v2ray.ang) 
+┌ [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)  (git (https://github.com/2dust/v2rayNG/releases))
+├[XRAY VPN] (https://play.google.com/store/apps/details?id=vpn.v2ray.xray)
+├[Matsuri](https://github.com/MatsuriDayo/Matsuri/releases) 
+├[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+📱Android  ├[SagerNet](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet&gl) 
+           ├[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)                       
+           ├[AnXray](https://t.me/SagerNetApks/923) 
+           └[Clash](https://play.google.com/store/apps/details?id=com.github.kr328.clash) 
 
-📱Android ├ [SagerNet](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet&gl) 
 
-📱Android └ [AnXray](https://github.com/XTLS/AnXray/releases/) ✔️
 
 
 📱iOS:  ┌ [NapsternetV](https://apps.apple.com/us/app/napsternetv/id1629465476) (ios 15+)                                                                 
@@ -28,7 +33,9 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 📱iOS:  ├ [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) (ios 9+) ✔                                                               
 📱iOS:  └ [Outline](https://apps.apple.com/us/app/outline-app/id1356177741) (ios 9+)                                                                     
 
-                           
+ 
+ 
+ 
 💻 Windows ├ [V2rayN](https://github.com/2dust/v2rayN/releases/download/4.27/v2rayN-Core.zip) ✔️
 
 
