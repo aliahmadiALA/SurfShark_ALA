@@ -11,7 +11,7 @@ Subscribe link (.JSON): https://raw.githubusercontent.com/aliahmadiALA/SurfShark
 Subscribe link (.TXT):  
 https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA).txt
 
-🔰Subscribe link (.TXT)🔰 can be used in the following tools👇
+🔰applications👇
 
 ----------------------------------------------------------------------------------------------------                                                                                                   
 📱Android ┌ [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)  ([git](https://github.com/2dust/v2rayNG/releases))                   
@@ -21,7 +21,10 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 📱Android ├[SagerNet](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet&gl)                                                           
 📱Android ├[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)                                                           
 📱Android ├[AnXray](https://t.me/SagerNetApks/923)                                                                                                       
-📱Android └[Clash](https://play.google.com/store/apps/details?id=com.github.kr328.clash)                                                                                                                                                                                                                            ----------------------------------------------------------------------------------------------------                                                                                                                                             
+📱Android └[Clash](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
+ 
+
+----------------------------------------------------------------------------------------------------                                                                                                                                             
 
 📱iOS  ┌ [NapsternetV](https://apps.apple.com/us/app/napsternetv/id1629465476) (ios 15+)                                                                 
 📱iOS  ├ [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) (ios 14+)                                                       
@@ -45,11 +48,3 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 💻 MacOS ├ [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases) + [Core](https://github.com/v2fly/v2ray-core/releases/) 
                            
 ---------------------------------------------------------------------------------------------------- 
-
-🔰Subscribe link (.YAML)🔰 can be used in the following tools👇
-
-📱Android ├ [Clash](https://play.google.com/store/apps/details?id=com.github.kr328.clash)
-
-💻 Windows ├ [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.3/Clash.for.Windows.Setup.0.19.3.exe) 
-
-🐧 Linux ├ [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.3/Clash.for.Windows-0.19.3-x64-linux.tar.gz) 
