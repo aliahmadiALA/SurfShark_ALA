@@ -22,9 +22,7 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 📱Android ├[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)                                                           
 📱Android ├[AnXray](https://t.me/SagerNetApks/923)                                                                                                       
 📱Android └[Clash](https://play.google.com/store/apps/details?id=com.github.kr328.clash)                                                                                                                    
-
-
-
+---------------------------------------------------------------------------------------------------- 
 
 📱iOS  ┌ [NapsternetV](https://apps.apple.com/us/app/napsternetv/id1629465476) (ios 15+)                                                                 
 📱iOS  ├ [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) (ios 14+)                                                       
@@ -35,17 +33,16 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 📱iOS  ├ [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) (ios 9+) ✔                                                               
 📱iOS  └ [Outline](https://apps.apple.com/us/app/outline-app/id1356177741) (ios 9+)                                                                     
 
-                                                                                                                                                                                         
- 
+---------------------------------------------------------------------------------------------------- 
  
 💻 Windows ├ [V2rayN](https://github.com/2dust/v2rayN/releases/download/4.27/v2rayN-Core.zip) ✔️
-
+---------------------------------------------------------------------------------------------------- 
 
 🐧 Linux ├ [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases) + [Core](https://github.com/v2fly/v2ray-core/releases/)
 
-
+---------------------------------------------------------------------------------------------------- 
 💻 MacOS ├ [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases) + [Core](https://github.com/v2fly/v2ray-core/releases/) 
-
+---------------------------------------------------------------------------------------------------- 
 
 🔰Subscribe link (.YAML)🔰 can be used in the following tools👇
 
