@@ -12,26 +12,27 @@ https://raw.githubusercontent.com/aliahmadiALA/SurfShark_ALA/main/(Surfshark_ALA
 
 🔰Subscribe link (.TXT)🔰 can be used in the following tools👇
 
-┌ [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)  (git (https://github.com/2dust/v2rayNG/releases))
-├[XRAY VPN] (https://play.google.com/store/apps/details?id=vpn.v2ray.xray)
-├[Matsuri](https://github.com/MatsuriDayo/Matsuri/releases) 
-├[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
-📱Android  ├[SagerNet](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet&gl) 
-           ├[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)                       
-           ├[AnXray](https://t.me/SagerNetApks/923) 
-           └[Clash](https://play.google.com/store/apps/details?id=com.github.kr328.clash) 
+
+📱Android ┌ [V2rayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)  ([git](https://github.com/2dust/v2rayNG/releases))
+📱Android ├[XRAY VPN](https://play.google.com/store/apps/details?id=vpn.v2ray.xray)
+📱Android ├[Matsuri](https://github.com/MatsuriDayo/Matsuri/releases) 
+📱Android ├[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+📱Android ├[SagerNet](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet&gl) 
+📱Android ├[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)                       
+📱Android ├[AnXray](https://t.me/SagerNetApks/923) 
+📱Android └[Clash](https://play.google.com/store/apps/details?id=com.github.kr328.clash) 
 
 
 
 
-📱iOS:  ┌ [NapsternetV](https://apps.apple.com/us/app/napsternetv/id1629465476) (ios 15+)                                                                 
-📱iOS:  ├ [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) (ios 14+)                                                       
-📱iOS:  ├ [Potatso lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) (ios 13+)                                                               
-📱iOS:  ├ [ShadowLink](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518) (ios 12.1+)                                                 
-📱iOS:  ├ [Spectre](https://apps.apple.com/us/app/spectre-vpn/id1508712998) (ios 11+)                                                                     
-📱iOS:  ├ [Fair vpn](https://apps.apple.com/us/app/fair-vpn/id1533873488) (ios 10+)                                                                       
-📱iOS:  ├ [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) (ios 9+) ✔                                                               
-📱iOS:  └ [Outline](https://apps.apple.com/us/app/outline-app/id1356177741) (ios 9+)                                                                     
+📱iOS  ┌ [NapsternetV](https://apps.apple.com/us/app/napsternetv/id1629465476) (ios 15+)                                                                 
+📱iOS  ├ [OneClick](https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197) (ios 14+)                                                       
+📱iOS  ├ [Potatso lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) (ios 13+)                                                               
+📱iOS  ├ [ShadowLink](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518) (ios 12.1+)                                                 
+📱iOS  ├ [Spectre](https://apps.apple.com/us/app/spectre-vpn/id1508712998) (ios 11+)                                                                     
+📱iOS  ├ [Fair vpn](https://apps.apple.com/us/app/fair-vpn/id1533873488) (ios 10+)                                                                       
+📱iOS  ├ [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) (ios 9+) ✔                                                               
+📱iOS  └ [Outline](https://apps.apple.com/us/app/outline-app/id1356177741) (ios 9+)                                                                     
 
  
  
