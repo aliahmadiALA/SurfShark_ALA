@@ -1,4 +1,4 @@
-Join my Telegram channel-> [Join](https://t.me/SurfShark_ALA)
+Telegram channel-> [Join](https://t.me/SurfShark_ALA)
  
 ---------------------------------------------------------------------------------------------------- 
 Subscribe link (.YAML): 
