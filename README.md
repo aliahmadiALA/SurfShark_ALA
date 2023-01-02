@@ -1,7 +1,7 @@
 Telegram channel-> [Join](https://t.me/SurfShark_ALA)
  
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJUZXN0IEh6IiwKICAiYWRkIjogIjUuNzUuMjMxLjIxMiIsCiAgInBvcnQiOiAxNDgxMSwKICAiaWQiOiAiNzk2YmNkMTgtY2M4Yi00M2IxLWZmZTctZjhlOGQ3ZTEzNjZjIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAiaHR0cCIsCiAgImhvc3QiOiAiZGlnaWthbGEuY29tIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogIm5vbmUiCn0=
 
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn5SwIERyLiBSYWtoc2hhbiAoRzUtMjkpIiwKICAiYWRkIjogIjUuNzUuMjMxLjIxMiIsCiAgInBvcnQiOiAyMTc3NSwKICAiaWQiOiAiYzhiZTQ2ZDctOTRmOC00MjczLWQ3MTYtNzQ4YTJjMDBhYzJiIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAiaHR0cCIsCiAgImhvc3QiOiAiZGlnaWthbGEuY29tIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogIm5vbmUiCn0=
 ---------------------------------------------------------------------------------------------------- 
 Subscribe link (.YAML): 
  
