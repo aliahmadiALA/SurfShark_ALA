@@ -1,4 +1,4 @@
-Telegram channel-> [Join](https://t.me/SurfShark_ALA)
+Telegram channel-> [Join](https://t.me/Cephalon_ala)
  
    vmess://eyJhZGQiOiJ3d3cuc2NpZW5jZWRpcmVjdC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6ImgyIiwiaG9zdCI6IiIsImlkIjoiZTUzZDhhZDUtYzBjNi00MDMwLTkzZDQtZDdhMWM5YjhhYjJjIiwibmV0IjoiZ3JwYyIsInBhdGgiOiJnNC5mZXJkb3dzaS5zaG9wIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+UsCBNIChHNC0xMSkiLCJzY3kiOiJhdXRvIiwic25pIjoiZzQuZmVyZG93c2kuc2hvcCIsInRscyI6InRscyIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 
